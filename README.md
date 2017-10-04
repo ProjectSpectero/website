@@ -21,7 +21,7 @@ Spectero.com/dashboard (daemon frontend)
       - (IF WHITELIST ONLY) Whitelisted domains / subdomains
       - LAN Subnet (so we can ban requests to this)
       - Listen IP / port
-  - VPN Server
+    - VPN Server
       - Server Software (OpenVPN or Shadowsocks, likely just Ovpn to start with, but good to have options)
       - Listen protocol (TCP / UDP / Both)
       - Listen IP
