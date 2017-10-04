@@ -46,8 +46,12 @@ Spectero.com/dashboard (daemon frontend)
   - Help
     - Help section dedicated to managing/configuring your daemon server
 - Marketplace
-  - "Find a proxy"
+  - Marketplace
+    - "Find a proxy"
   - Settings
     - Billing related settings (?)
   - Help
     - Help section dedicated to the marketplace
+- Login/sign up (redirected here if you're not signed in)
+- My account
+  - Allows for modification of your Spectero account (name, address, password, etc.)
