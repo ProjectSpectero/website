@@ -23,3 +23,5 @@ Spectero.com/dashboard
   - "Find a proxy"
   - Settings
     - Billing related settings (?)
+  - Help
+    - Help section dedicated to the marketplace
