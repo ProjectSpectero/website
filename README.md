@@ -1,4 +1,7 @@
 Spectero.com
+
+This is essentially just a marketing funnel into the dashboard.
+
 - Landing page
   - Simple clean header
     - Top left logo
@@ -7,6 +10,8 @@ Spectero.com
     - Links to a super simple page to download our end-user VPN app
   - How it works
     - Basic explanation of our product with links to both the server software and end user VPN software
+  - Marketplace
+    - Explanation of the marketplace with some example listings in a table with "lease now" options so end users looking to lease connections can get a taste of what's available.
   - Login/Signup
     - Upon signing in and logging in to spectero.com, you will be able to manage/add plex servers for remote management via the dashboard.
     
