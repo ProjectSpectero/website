@@ -11,6 +11,9 @@ Spectero.com
     - Upon signing in and logging in to spectero.com, you will be able to manage/add plex servers for remote management via the dashboard.
     
 Spectero.com/dashboard (daemon frontend)
+
+Assumes that the user has already linked their server to the spectero.com dashboard and that port forwarding is enabled on the daemon's server. Spectero Dashboard <-> Daemon server connectivity should be established via port forwarding and accessable from the dashboard via dynamic DNS.
+
 - Manage (allows for management of multiple "daemons" selectable via dropdown)
   - Dashboard
   - Service management
