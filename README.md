@@ -17,5 +17,9 @@ Spectero.com/dashboard
     - Share access to your Spectero daemon with other Spectero users
   - Settings
     - Modify settings related to your Spectero daemon
+  - Help
+    - Help section dedicated to managing/configuring your daemon server
 - Marketplace
   - "Find a proxy"
+  - Settings
+    - Billing related settings (?)
