@@ -10,13 +10,39 @@ Spectero.com
   - Login/Signup
     - Upon signing in and logging in to spectero.com, you will be able to manage/add plex servers for remote management via the dashboard.
     
-Spectero.com/dashboard 
+Spectero.com/dashboard (daemon frontend)
 - Manage (allows for management of multiple "daemons" selectable via dropdown)
   - Dashboard
+  - Service management
+    - Proxy
+      - Enabled? Yes/No
+      - Mode (dropdown with NORMAL / WHITELIST ONLY option)
+      - (IF NORMAL) Blacklisted domains
+      - (IF WHITELIST ONLY) Whitelisted domains / subdomains
+      - LAN Subnet (so we can ban requests to this)
+      - Listen IP / port
+  - VPN Server
+      - Server Software (OpenVPN or Shadowsocks, likely just Ovpn to start with, but good to have options)
+      - Listen protocol (TCP / UDP / Both)
+      - Listen IP
+      - TCP Port (show one or both depending on the protocol choice)
+      - UDP Port (show one or both depending on the protocol choice)
+      - Max sessions per user (Same user, multi device)
+  - Statistics
+    - Various usage statistics in table form
+    - Per service BW usage stats on a per month basis
+    - Per user BW usage stats on a per month basis ACROSS services
+    - Telemetry results ("healthcheck")
   - Users
-    - Share access to your Spectero daemon with other Spectero users
+    - Send a sortable list with search
+    - Add / Edit / Delete user actions
+    - For adding a user, assume name / email / service_access (either proxy / vpn / both) as options. Add others if you see fit, these are basically the "LOCAL" users.
   - Settings
-    - Modify settings related to your Spectero daemon
+    - Bandwidth limit (not available in the MVP, but thought it was a good option)
+    - REST API Listen IP / port
+    - Log Retention (days)
+    - Statistics Retention (days)
+    - ..others as they're thought of
   - Help
     - Help section dedicated to managing/configuring your daemon server
 - Marketplace
