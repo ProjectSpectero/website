@@ -56,9 +56,9 @@ Assumes that the user has already linked their server to the spectero.com dashbo
 - Marketplace
   - Marketplace
   	- General marketplace (Customer <-> Seller)
-  		- Allows for P2P VPN sales, this one will ultimately give the user the most flexibility in terms of bandwidth etc. but they are reliant on the end user keeping their connection up
+  		- Allows for P2P VPN sales, this one will ultimately give the user the most flexibility in terms of bandwidth etc. but they are reliant on the end user keeping their connection up. In the general marketplace you can buy a connection with Shadowsocks, SOCK5, SSH, OpenVPN, or whatever other connection methodology you require.
   	- Spectero Managed (Customer <-> Spectero <-> Seller)
-  		- A user will input their requirements (eg. (100 unique IPs with 99.9% uptime to Google US geolocated) and we will fufill this out of our database of users signed up to host our managed services
+  		- A user will input their requirements (eg. (100 unique IPs with 99.9% uptime to Google US geolocated) and we will fufill this out of our database of users signed up to host our managed services. Spectero managed is SOCK 5 only
     - "Find a proxy"
   - Settings
     - Billing related settings (?)
