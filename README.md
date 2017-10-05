@@ -55,6 +55,10 @@ Assumes that the user has already linked their server to the spectero.com dashbo
     - Help section dedicated to managing/configuring your daemon server
 - Marketplace
   - Marketplace
+  	- General marketplace (Customer <-> Seller)
+  		- Allows for P2P VPN sales, this one will ultimately give the user the most flexibility in terms of bandwidth etc. but they are reliant on the end user keeping their connection up
+  	- Spectero Managed (Customer <-> Spectero <-> Seller)
+  		- A user will input their requirements (eg. (100 unique IPs with 99.9% uptime to Google US geolocated) and we will fufill this out of our database of users signed up to host our managed services
     - "Find a proxy"
   - Settings
     - Billing related settings (?)
