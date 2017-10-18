@@ -65,5 +65,7 @@ Assumes that the user has already linked their server to the spectero.com dashbo
   - Help
     - Help section dedicated to the marketplace
 - ~~Login/sign up (redirected here if you're not signed in)~~
+    - Reset account screens
+    - Activation email screens
 - My account
   - Allows for modification of your Spectero account (name, address, password, etc.)
