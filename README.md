@@ -56,7 +56,7 @@ Assumes that the user has already linked their server to the spectero.com dashbo
     
     
     
-Marketplace drop downs (wireframe)
+Marketplace
 - Sidebar
   - Marketplace
     - Overview
