@@ -53,19 +53,28 @@ Assumes that the user has already linked their server to the spectero.com dashbo
     - ..others as they're thought of
   - Help
     - Help section dedicated to managing/configuring your daemon server
-- Marketplace
+    
+    
+    
+Marketplace drop downs (wireframe)
+- Sidebar
   - Marketplace
-  	- General marketplace (Customer <-> Seller)
-  		- Allows for P2P VPN sales, this one will ultimately give the user the most flexibility in terms of bandwidth etc. but they are reliant on the end user keeping their connection up. In the general marketplace you can buy a connection with Shadowsocks, SOCK5, SSH, OpenVPN, or whatever other connection methodology you require.
-  	- Spectero Managed (Customer <-> Spectero <-> Seller)
-  		- A user will input their requirements (eg. (100 unique IPs with 99.9% uptime to Google US geolocated) and we will fufill this out of our database of users signed up to host our managed services. Spectero managed is for HTTP requests only
-    - "Find a proxy"
+    - Overview
+      - General marketplace (Customer <-> Seller)
+      - Notes: - Allows for P2P VPN sales, this one will ultimately give the user the most flexibility in terms of bandwidth etc. but they are reliant on the end user keeping their connection up. In the general marketplace you can buy a connection with Shadowsocks, SOCK5, SSH, OpenVPN, or whatever other connection methodology you require.
+      - Table view of all available listings, includes basic headers such as "location, speed, internet provider, ASN, hosted by, and price"
+      - Upon clicking "sort" you're shown sort options to easily search by Internet provider, speed, ASN, price, etc.
+    - Spectero managed
+      - Spectero Managed (Customer <-> Spectero <-> Seller)
+      - A user will input their requirements (eg. (100 unique IPs with 99.9% uptime to Google US geolocated) and we will fufill this out of our database of users signed up to host our managed services. Spectero managed is for HTTP requests only
+  - Manage
+    - My VPNs
+      - Shows you a list of all the nodes you have access to after purchasing them on the marketplace
+    - My listings
+      - Shows you 2 primary boxes (see screen 257730839 overview), one with "listed nodes" and ones with "unlisted nodes." This screen can be very similar to screen 257730839 with some tweaks for $ earned per node and/or billing buttons etc. as needed
+        - When clicking the "list node" button you have a popup with some basic information you need to fill out before the connection is listed
+  - Billing
   - Settings
-    - Billing related settings (?)
+    - Basic configuration settings,
   - Help
     - Help section dedicated to the marketplace
-- ~~Login/sign up (redirected here if you're not signed in)~~
-    - Reset account screens
-    - Activation email screens
-- My account
-  - Allows for modification of your Spectero account (name, address, password, etc.)
