@@ -1,0 +1,12 @@
+.button {
+  display: inline-block;
+  padding: 16px 32px;
+  font-size: 16px;
+  line-height: 12px;
+  font-weight: $font-semi;
+  color: $color-primary;
+  background: $color-brand;
+  text-decoration: none;
+  border-radius: 50px;
+  border: none;
+}

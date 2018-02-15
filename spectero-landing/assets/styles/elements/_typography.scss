@@ -1,0 +1,30 @@
+h1, h2, h3, h4, h5 {
+  margin-bottom: 8px;
+}
+h1 {
+
+}
+h2 {
+  font-size: 34px;
+  line-height: 120%;
+  font-weight: $font-bold;
+}
+h3 {
+  font-size: 18px;
+  line-height: 120%;
+  font-weight: $font-semi;
+}
+h4 {
+
+}
+h5 {
+
+}
+
+strong {
+  font-weight: $font-bold;
+}
+
+.text-color-brand {
+  color: $color-brand;
+}

@@ -1,0 +1,21 @@
+.logo {
+  width: 276px;
+  height: 40px;
+  display: inline-block;
+  background: url(/assets/img/logo.svg) no-repeat 0 0/276px 40px;
+  
+  &.logo-md {
+    width: 166px;
+    height: 24px;
+    background-size: 166px 24px;
+  }
+  &.logo-sm {
+    width: 125px;
+    height: 18px;
+    background-size: 125px 18px;
+  }
+}
+
+.screenshot-marketplace {
+  background: url(/assets/img/screenshot-marketplace.png) no-repeat 0 0/1100px 400px !important;
+}

@@ -1,0 +1,17 @@
+.wrapper {
+  width: 100%;
+  max-width: 1200px + (20px * 2);
+  height: 100%;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+.body-wrapper {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.body-white {
+  background: $white;
+}
+.body-alt {
+  background: $color-bg-alt;
+}
