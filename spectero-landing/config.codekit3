@@ -187,6 +187,19 @@
 		"oS": 3,
 		"uL": 1
 		},
+	"\/assets\/styles\/components\/_fonts.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/assets\/styles\/css\/_fonts.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
 	"\/assets\/styles\/elements\/_assets.scss": {
 		"aP": 1,
 		"bl": 0,
@@ -316,6 +329,17 @@
 		"oF": 0,
 		"oS": 3,
 		"uL": 1
+		},
+	"\/favicon.png": {
+		"ft": 32768,
+		"iS": 16952,
+		"oA": 0,
+		"oAP": "\/favicon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/index.html": {
 		"cB": 0,

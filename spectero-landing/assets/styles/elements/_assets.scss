@@ -2,7 +2,7 @@
   width: 276px;
   height: 40px;
   display: inline-block;
-  background: url(/assets/img/logo.svg) no-repeat 0 0/276px 40px;
+  background: url(../img/logo.svg) no-repeat 0 0/276px 40px;
   
   &.logo-md {
     width: 166px;
@@ -17,5 +17,5 @@
 }
 
 .screenshot-marketplace {
-  background: url(/assets/img/screenshot-marketplace.png) no-repeat 0 0/1100px 400px !important;
+  background: url(../img/screenshot-marketplace.png) no-repeat 0 0/1100px 400px !important;
 }
