@@ -7,7 +7,7 @@
 		"uuidString": "4D093B69-DACC-4A2D-8124-2B93ECC22356"
 		}
 	],
-"creatorBuild": "26268",
+"creatorBuild": "26330",
 "files": {
 	"\/.htaccess": {
 		"cB": 0,
@@ -151,6 +151,345 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/public\/jobs.html",
+		"oF": 0
+		},
+	"\/public\/spectero-landing\/assets\/css\/main.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/public\/spectero-landing\/assets\/css\/main-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/public\/spectero-landing\/assets\/fonts\/feather.eot": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/public\/spectero-landing\/assets\/fonts\/feather.eot",
+		"oF": 0
+		},
+	"\/public\/spectero-landing\/assets\/fonts\/feather.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/public\/spectero-landing\/assets\/fonts\/feather.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/public\/spectero-landing\/assets\/fonts\/feather.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/public\/spectero-landing\/assets\/fonts\/feather.ttf",
+		"oF": 0
+		},
+	"\/public\/spectero-landing\/assets\/fonts\/feather.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/public\/spectero-landing\/assets\/fonts\/feather.woff",
+		"oF": 0
+		},
+	"\/public\/spectero-landing\/assets\/fonts\/proximanova-bold-webfont.eot": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/public\/spectero-landing\/assets\/fonts\/proximanova-bold-webfont.eot",
+		"oF": 0
+		},
+	"\/public\/spectero-landing\/assets\/fonts\/proximanova-bold-webfont.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/public\/spectero-landing\/assets\/fonts\/proximanova-bold-webfont.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/public\/spectero-landing\/assets\/fonts\/proximanova-bold-webfont.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/public\/spectero-landing\/assets\/fonts\/proximanova-bold-webfont.ttf",
+		"oF": 0
+		},
+	"\/public\/spectero-landing\/assets\/fonts\/proximanova-bold-webfont.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/public\/spectero-landing\/assets\/fonts\/proximanova-bold-webfont.woff",
+		"oF": 0
+		},
+	"\/public\/spectero-landing\/assets\/fonts\/proximanova-regular-webfont.eot": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/public\/spectero-landing\/assets\/fonts\/proximanova-regular-webfont.eot",
+		"oF": 0
+		},
+	"\/public\/spectero-landing\/assets\/fonts\/proximanova-regular-webfont.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/public\/spectero-landing\/assets\/fonts\/proximanova-regular-webfont.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/public\/spectero-landing\/assets\/fonts\/proximanova-regular-webfont.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/public\/spectero-landing\/assets\/fonts\/proximanova-regular-webfont.ttf",
+		"oF": 0
+		},
+	"\/public\/spectero-landing\/assets\/fonts\/proximanova-regular-webfont.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/public\/spectero-landing\/assets\/fonts\/proximanova-regular-webfont.woff",
+		"oF": 0
+		},
+	"\/public\/spectero-landing\/assets\/fonts\/proximanova-semibold-webfont.eot": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/public\/spectero-landing\/assets\/fonts\/proximanova-semibold-webfont.eot",
+		"oF": 0
+		},
+	"\/public\/spectero-landing\/assets\/fonts\/proximanova-semibold-webfont.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/public\/spectero-landing\/assets\/fonts\/proximanova-semibold-webfont.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/public\/spectero-landing\/assets\/fonts\/proximanova-semibold-webfont.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/public\/spectero-landing\/assets\/fonts\/proximanova-semibold-webfont.ttf",
+		"oF": 0
+		},
+	"\/public\/spectero-landing\/assets\/fonts\/proximanova-semibold-webfont.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/public\/spectero-landing\/assets\/fonts\/proximanova-semibold-webfont.woff",
+		"oF": 0
+		},
+	"\/public\/spectero-landing\/assets\/img\/logo-dark.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/public\/spectero-landing\/assets\/img\/logo-dark.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/public\/spectero-landing\/assets\/img\/logo.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/public\/spectero-landing\/assets\/img\/logo.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/public\/spectero-landing\/assets\/img\/screenshot-marketplace.png": {
+		"ft": 32768,
+		"iS": 112720,
+		"oA": 0,
+		"oAP": "\/public\/spectero-landing\/assets\/img\/screenshot-marketplace.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/public\/spectero-landing\/assets\/styles\/_vars.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/public\/spectero-landing\/assets\/styles\/_vars.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/public\/spectero-landing\/assets\/styles\/components\/_fonts.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/public\/spectero-landing\/assets\/styles\/components\/_fonts.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/public\/spectero-landing\/assets\/styles\/elements\/_assets.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/public\/spectero-landing\/assets\/styles\/elements\/_assets.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/public\/spectero-landing\/assets\/styles\/elements\/_buttons.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/public\/spectero-landing\/assets\/styles\/elements\/_buttons.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/public\/spectero-landing\/assets\/styles\/elements\/_footer.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/public\/spectero-landing\/assets\/styles\/elements\/_footer.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/public\/spectero-landing\/assets\/styles\/elements\/_global.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/public\/spectero-landing\/assets\/styles\/elements\/_global.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/public\/spectero-landing\/assets\/styles\/elements\/_header.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/public\/spectero-landing\/assets\/styles\/elements\/_header.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/public\/spectero-landing\/assets\/styles\/elements\/_typography.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/public\/spectero-landing\/assets\/styles\/elements\/_typography.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/public\/spectero-landing\/assets\/styles\/elements\/_wrapper.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/public\/spectero-landing\/assets\/styles\/elements\/_wrapper.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/public\/spectero-landing\/assets\/styles\/extras\/_reset.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/public\/spectero-landing\/assets\/styles\/extras\/_reset.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/public\/spectero-landing\/assets\/styles\/main.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/public\/spectero-landing\/assets\/styles\/main.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/public\/spectero-landing\/assets\/styles\/pages\/_homepage.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/public\/spectero-landing\/assets\/styles\/pages\/_homepage.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/public\/spectero-landing\/favicon.png": {
+		"ft": 32768,
+		"iS": 16952,
+		"oA": 0,
+		"oAP": "\/public\/spectero-landing\/favicon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/public\/spectero-landing\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/public\/spectero-landing\/index.html",
 		"oF": 0
 		},
 	"\/README.md": {
@@ -1575,7 +1914,7 @@
 			}
 		},
 	"esLintSourceType": 0,
-	"externalServerAddress": "http:\/\/spectero.landing:8888",
+	"externalServerAddress": "http:\/\/spectero.landing",
 	"gitIgnoreBuildFolder": 1,
 	"hideConfigFile": 0,
 	"jsCheckerReservedNamesString": "",
