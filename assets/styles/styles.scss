@@ -117,7 +117,7 @@ a {
 }
 
 #tagline {
-  max-width: 740px;
+  max-width: 840px;
 }
 
 #extraLink {
@@ -164,6 +164,10 @@ a {
     }
     p, ul {
       margin-bottom: 40px;
+
+      &.less-spaced {
+        margin-bottom: 20px;
+      }
     }
     header {
       .tag {
