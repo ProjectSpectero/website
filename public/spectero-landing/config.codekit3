@@ -7,346 +7,531 @@
 		"uuidString": "1D3543B9-4FDB-4987-9765-272FA53AEA65"
 		}
 	],
-"creatorBuild": "26330",
+"creatorBuild": "26680",
 "files": {
-	"\/assets\/css\/main.css": {
+	"\/.gitignore": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/.gitignore",
+		"oF": 0
+		},
+	"\/public\/.htaccess": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/public\/.htaccess",
+		"oF": 0
+		},
+	"\/public\/assets\/css\/main.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/assets\/css\/main-min.css",
+		"oAP": "\/public\/assets\/css\/main-min.css",
 		"oF": 0,
 		"oS": 3
 		},
-	"\/assets\/fonts\/feather.eot": {
+	"\/public\/assets\/fonts\/feather.eot": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/assets\/fonts\/feather.eot",
+		"oAP": "\/public\/assets\/fonts\/feather.eot",
 		"oF": 0
 		},
-	"\/assets\/fonts\/feather.svg": {
+	"\/public\/assets\/fonts\/feather.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/assets\/fonts\/feather.svg",
+		"oAP": "\/public\/assets\/fonts\/feather.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/assets\/fonts\/feather.ttf": {
+	"\/public\/assets\/fonts\/feather.ttf": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/assets\/fonts\/feather.ttf",
+		"oAP": "\/public\/assets\/fonts\/feather.ttf",
 		"oF": 0
 		},
-	"\/assets\/fonts\/feather.woff": {
+	"\/public\/assets\/fonts\/feather.woff": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/assets\/fonts\/feather.woff",
+		"oAP": "\/public\/assets\/fonts\/feather.woff",
 		"oF": 0
 		},
-	"\/assets\/fonts\/proximanova-bold-webfont.eot": {
+	"\/public\/assets\/fonts\/proximanova-bold-webfont.eot": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/assets\/fonts\/proximanova-bold-webfont.eot",
+		"oAP": "\/public\/assets\/fonts\/proximanova-bold-webfont.eot",
 		"oF": 0
 		},
-	"\/assets\/fonts\/proximanova-bold-webfont.svg": {
+	"\/public\/assets\/fonts\/proximanova-bold-webfont.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/assets\/fonts\/proximanova-bold-webfont.svg",
+		"oAP": "\/public\/assets\/fonts\/proximanova-bold-webfont.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/assets\/fonts\/proximanova-bold-webfont.ttf": {
+	"\/public\/assets\/fonts\/proximanova-bold-webfont.ttf": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/assets\/fonts\/proximanova-bold-webfont.ttf",
+		"oAP": "\/public\/assets\/fonts\/proximanova-bold-webfont.ttf",
 		"oF": 0
 		},
-	"\/assets\/fonts\/proximanova-bold-webfont.woff": {
+	"\/public\/assets\/fonts\/proximanova-bold-webfont.woff": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/assets\/fonts\/proximanova-bold-webfont.woff",
+		"oAP": "\/public\/assets\/fonts\/proximanova-bold-webfont.woff",
 		"oF": 0
 		},
-	"\/assets\/fonts\/proximanova-regular-webfont.eot": {
+	"\/public\/assets\/fonts\/proximanova-regular-webfont.eot": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/assets\/fonts\/proximanova-regular-webfont.eot",
+		"oAP": "\/public\/assets\/fonts\/proximanova-regular-webfont.eot",
 		"oF": 0
 		},
-	"\/assets\/fonts\/proximanova-regular-webfont.svg": {
+	"\/public\/assets\/fonts\/proximanova-regular-webfont.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/assets\/fonts\/proximanova-regular-webfont.svg",
+		"oAP": "\/public\/assets\/fonts\/proximanova-regular-webfont.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/assets\/fonts\/proximanova-regular-webfont.ttf": {
+	"\/public\/assets\/fonts\/proximanova-regular-webfont.ttf": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/assets\/fonts\/proximanova-regular-webfont.ttf",
+		"oAP": "\/public\/assets\/fonts\/proximanova-regular-webfont.ttf",
 		"oF": 0
 		},
-	"\/assets\/fonts\/proximanova-regular-webfont.woff": {
+	"\/public\/assets\/fonts\/proximanova-regular-webfont.woff": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/assets\/fonts\/proximanova-regular-webfont.woff",
+		"oAP": "\/public\/assets\/fonts\/proximanova-regular-webfont.woff",
 		"oF": 0
 		},
-	"\/assets\/fonts\/proximanova-semibold-webfont.eot": {
+	"\/public\/assets\/fonts\/proximanova-semibold-webfont.eot": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/assets\/fonts\/proximanova-semibold-webfont.eot",
+		"oAP": "\/public\/assets\/fonts\/proximanova-semibold-webfont.eot",
 		"oF": 0
 		},
-	"\/assets\/fonts\/proximanova-semibold-webfont.svg": {
+	"\/public\/assets\/fonts\/proximanova-semibold-webfont.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/assets\/fonts\/proximanova-semibold-webfont.svg",
+		"oAP": "\/public\/assets\/fonts\/proximanova-semibold-webfont.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/assets\/fonts\/proximanova-semibold-webfont.ttf": {
+	"\/public\/assets\/fonts\/proximanova-semibold-webfont.ttf": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/assets\/fonts\/proximanova-semibold-webfont.ttf",
+		"oAP": "\/public\/assets\/fonts\/proximanova-semibold-webfont.ttf",
 		"oF": 0
 		},
-	"\/assets\/fonts\/proximanova-semibold-webfont.woff": {
+	"\/public\/assets\/fonts\/proximanova-semibold-webfont.woff": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/assets\/fonts\/proximanova-semibold-webfont.woff",
+		"oAP": "\/public\/assets\/fonts\/proximanova-semibold-webfont.woff",
 		"oF": 0
 		},
-	"\/assets\/img\/logo-dark.svg": {
+	"\/public\/assets\/img\/dropdown.png": {
+		"ft": 32768,
+		"iS": 640,
+		"oA": 0,
+		"oAP": "\/public\/assets\/img\/dropdown.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/public\/assets\/img\/logo-dark.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/assets\/img\/logo-dark.svg",
+		"oAP": "\/public\/assets\/img\/logo-dark.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/assets\/img\/logo.svg": {
+	"\/public\/assets\/img\/logo.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/assets\/img\/logo.svg",
+		"oAP": "\/public\/assets\/img\/logo.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/assets\/img\/screenshot-marketplace.png": {
+	"\/public\/assets\/img\/managed-diagram-mini.png": {
+		"ft": 32768,
+		"iS": 21022,
+		"oA": 0,
+		"oAP": "\/public\/assets\/img\/managed-diagram-mini.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/public\/assets\/img\/managed-diagram.png": {
+		"ft": 32768,
+		"iS": 20309,
+		"oA": 0,
+		"oAP": "\/public\/assets\/img\/managed-diagram.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/public\/assets\/img\/screenshot-marketplace.png": {
 		"ft": 32768,
 		"iS": 112720,
 		"oA": 0,
-		"oAP": "\/assets\/img\/screenshot-marketplace.png",
+		"oAP": "\/public\/assets\/img\/screenshot-marketplace.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/assets\/styles\/_vars.scss": {
-		"aP": 1,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
+	"\/public\/assets\/js\/main-min.js": {
+		"ft": 64,
 		"ma": 0,
-		"oA": 1,
-		"oAP": "\/assets\/css\/_vars.css",
-		"oF": 0,
-		"oS": 3,
-		"uL": 1
-		},
-	"\/assets\/styles\/components\/_fonts.scss": {
-		"aP": 1,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/assets\/styles\/css\/_fonts.css",
-		"oF": 0,
-		"oS": 3,
-		"uL": 1
-		},
-	"\/assets\/styles\/elements\/_assets.scss": {
-		"aP": 1,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/assets\/styles\/css\/_assets.css",
-		"oF": 0,
-		"oS": 3,
-		"uL": 1
-		},
-	"\/assets\/styles\/elements\/_buttons.scss": {
-		"aP": 1,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/assets\/styles\/css\/_buttons.css",
-		"oF": 0,
-		"oS": 3,
-		"uL": 1
-		},
-	"\/assets\/styles\/elements\/_footer.scss": {
-		"aP": 1,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/assets\/styles\/css\/_footer.css",
-		"oF": 0,
-		"oS": 3,
-		"uL": 1
-		},
-	"\/assets\/styles\/elements\/_global.scss": {
-		"aP": 1,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/assets\/styles\/css\/_global.css",
-		"oF": 0,
-		"oS": 3,
-		"uL": 1
-		},
-	"\/assets\/styles\/elements\/_header.scss": {
-		"aP": 1,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/assets\/styles\/css\/_header.css",
-		"oF": 0,
-		"oS": 3,
-		"uL": 1
-		},
-	"\/assets\/styles\/elements\/_typography.scss": {
-		"aP": 1,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/assets\/styles\/css\/_typography.css",
-		"oF": 0,
-		"oS": 3,
-		"uL": 1
-		},
-	"\/assets\/styles\/elements\/_wrapper.scss": {
-		"aP": 1,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/assets\/styles\/css\/_wrapper.css",
-		"oF": 0,
-		"oS": 3,
-		"uL": 1
-		},
-	"\/assets\/styles\/extras\/_reset.scss": {
-		"aP": 1,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/assets\/styles\/css\/_reset.css",
-		"oF": 0,
-		"oS": 3,
-		"uL": 1
-		},
-	"\/assets\/styles\/main.scss": {
-		"aP": 1,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
+		"mi": 1,
 		"oA": 0,
-		"oAP": "\/assets\/css\/main.css",
+		"oAP": "\/public\/assets\/js\/main-min-min.js",
 		"oF": 0,
-		"oS": 3,
-		"uL": 1
+		"sC": 3,
+		"tS": 0
 		},
-	"\/assets\/styles\/pages\/_homepage.scss": {
-		"aP": 1,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/assets\/styles\/css\/_homepage.css",
-		"oF": 0,
-		"oS": 3,
-		"uL": 1
-		},
-	"\/favicon.png": {
-		"ft": 32768,
-		"iS": 16952,
-		"oA": 0,
-		"oAP": "\/favicon.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/index.html": {
+	"\/public\/careers.php": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/index.html",
+		"oAP": "\/public\/careers.php",
 		"oF": 0
+		},
+	"\/public\/contact.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/public\/contact.php",
+		"oF": 0
+		},
+	"\/public\/downloads.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/public\/downloads.php",
+		"oF": 0
+		},
+	"\/public\/favicon.png": {
+		"ft": 32768,
+		"iS": 16952,
+		"oA": 0,
+		"oAP": "\/public\/favicon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/public\/includes\/footer.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/public\/includes\/footer.php",
+		"oF": 0
+		},
+	"\/public\/includes\/header.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/public\/includes\/header.php",
+		"oF": 0
+		},
+	"\/public\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/public\/index.php",
+		"oF": 0
+		},
+	"\/public\/jobs.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/public\/jobs.php",
+		"oF": 0
+		},
+	"\/public\/managed.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/public\/managed.php",
+		"oF": 0
+		},
+	"\/public\/team.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/public\/team.php",
+		"oF": 0
+		},
+	"\/src\/scripts\/dep\/jquery.validate.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/public\/assets\/js\/jquery.validate.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/src\/scripts\/main.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/public\/assets\/js\/main-min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/src\/styles\/_vars.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/public\/assets\/css\/_vars.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/src\/styles\/components\/_fonts.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/public\/assets\/css\/_fonts.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/src\/styles\/elements\/_assets.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/public\/assets\/css\/_assets.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/src\/styles\/elements\/_buttons.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/public\/assets\/css\/_buttons.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/src\/styles\/elements\/_footer.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/public\/assets\/css\/_footer.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/src\/styles\/elements\/_global.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/public\/assets\/css\/_global.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/src\/styles\/elements\/_header.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/public\/assets\/css\/_header.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/src\/styles\/elements\/_input.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/public\/assets\/css\/_input.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/src\/styles\/elements\/_typography.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/public\/assets\/css\/_typography.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/src\/styles\/elements\/_wrapper.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/public\/assets\/css\/_wrapper.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/src\/styles\/extras\/_reset.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/public\/assets\/css\/_reset.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/src\/styles\/main.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/public\/assets\/css\/main.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/src\/styles\/pages\/_careers.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/public\/assets\/css\/_careers.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/src\/styles\/pages\/_homepage.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/public\/assets\/css\/_homepage.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/src\/styles\/pages\/_managed.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/public\/assets\/css\/_managed.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/src\/styles\/pages\/_team.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/public\/assets\/css\/_team.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
 		}
 	},
 "hooks": [
@@ -357,11 +542,12 @@
 	"creationDate": 540353880,
 	"displayValue": "spectero-landing",
 	"displayValueWasSetByUser": 0,
-	"iconImageName": "meme-cryingJordan"
+	"iconImageName": "meme-cryingJordan",
+	"iconImageWasSetByUser": 0
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
-	"alwaysUseExternalServer": 0,
+	"alwaysUseExternalServer": 1,
 	"animateCSSInjections": 1,
 	"autoBuildNewItems": 1,
 	"autoprefixerBrowserString": "> 1%, last 2 versions, Firefox ESR, Opera 12.1",
@@ -1752,7 +1938,7 @@
 			}
 		},
 	"esLintSourceType": 0,
-	"externalServerAddress": "http:\/\/localhost:8888",
+	"externalServerAddress": "http:\/\/spectero.landing",
 	"gitIgnoreBuildFolder": 1,
 	"hideConfigFile": 0,
 	"jsCheckerReservedNamesString": "",
@@ -2160,15 +2346,16 @@
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
+		"outputFormat": 0,
 		"quality": 100
 		},
 	"languageDefaultsJS": {
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*-min.js",
-		"autoOutputPathRelativePath": "..\/js",
+		"autoOutputPathRelativePath": ".\/public\/assets\/js",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 2,
+		"autoOutputPathStyle": 1,
 		"createSourceMap": 0,
 		"minifyOutput": 1,
 		"syntaxCheckerStyle": 3,
@@ -2265,10 +2452,10 @@
 	"languageDefaultsSASS": {
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.css",
-		"autoOutputPathRelativePath": "..\/css",
+		"autoOutputPathRelativePath": ".\/public\/assets\/css",
 		"autoOutputPathReplace1": "sass",
 		"autoOutputPathReplace2": "css",
-		"autoOutputPathStyle": 2,
+		"autoOutputPathStyle": 1,
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,

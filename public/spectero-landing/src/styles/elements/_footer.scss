@@ -1,0 +1,24 @@
+#footer-main {
+  color: $white;
+  background: $color-bg-primary;
+
+  .wrapper {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    justify-content: center;
+  }
+  .footer-content {
+    display: flex;
+    align-items: center;
+  }
+  .logo {
+    float: left;
+  }
+  .slogan {
+    float: left;
+    margin-left: 20px;
+    font-size: 15px;
+    line-height: 100%;
+    font-weight: $font-semi;
+  }
+}

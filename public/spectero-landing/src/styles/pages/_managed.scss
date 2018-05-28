@@ -1,0 +1,323 @@
+#managed {
+  .managed-diagram {
+    width: 100%;
+    max-width: 1113px;
+    height: 153px;
+    display: inline-block;
+    background: url(../img/managed-diagram.png) 0px 0px/1113px 153px no-repeat;
+    margin: 0 auto;
+  
+    @media screen and (max-width: 1160px) {
+      max-width: 900px;
+      height: 124px;
+      background-size: 100% 100%;
+    }
+    @media screen and (max-width: 940px) {
+      max-width: 800px;
+      height: 110px;
+    }
+    @media screen and (max-width: 840px) {
+      max-width: 608px;
+      height: 387px;
+      background-image: url(../img/managed-diagram-mini.png);
+    }
+    @media screen and (max-width: 650px) {
+      max-width: 500px;
+      height: 318px;
+    }
+    @media screen and (max-width: 550px) {
+      max-width: 400px;
+      height: 254px;
+    }
+    @media screen and (max-width: 450px) {
+      max-width: 300px;
+      height: 190px;
+    }
+  }
+  .managed-diagram-steps {
+    margin-top: 30px;
+    text-align: left;
+  
+    article {
+      width: 32%;
+      margin-right: 2%;
+      float: left;
+  
+      &:last-child {
+        margin-right: 0;
+      }
+      p {
+        opacity: 0.7;
+        font-size: 95%;
+        line-height: 150%;
+      }
+      @media screen and (max-width: 900px) {
+        width: 100%;
+        margin-right: 0;
+        float: none;
+        margin-bottom: 20px;
+        text-align: center;
+  
+        &:last-child {
+          margin-bottom: 0;
+        }
+      }
+    }
+  }
+  .faq {
+    margin-top: 30px;
+    padding-top: 30px;
+    border-top: 1px dashed $color-border;
+    text-align: left;
+
+    h4, h5 {
+      text-align: left;
+      margin-bottom: 16px;
+    }
+    h4 {
+      font-size: 20px;
+      line-height: 26px;
+      font-weight: 600;
+    }
+    h5 {
+      font-size: 110%;
+      font-weight: 600;
+    }
+    .questions {
+      width: 40%;
+      float: left;
+
+      ul {
+        list-style: none;
+      }
+      li {
+        padding: 8px 12px;
+        font-size: 15px;
+        line-height: 24px;
+        border: 1px solid #fff;
+        border-radius: 4px;
+        cursor: pointer;
+        margin-bottom: 4px;
+        color: lighten(#000, 50%);
+
+        &.selected, &:hover {
+          color: $color-primary;
+          background: #FBFCFC;
+          border-color: rgba(27,84,106,0.15);
+        }
+        &.selected {
+          font-weight: 600;
+        }
+        &:last-of-type {
+          margin-bottom: 0;
+        }
+      }
+    }
+    .answer {
+      width: 60%;
+      float: right;
+      padding-left: 20px;
+      font-size: 15px;
+      line-height: 28px;
+
+      article {
+        display: none;
+        
+        &:first-child {
+          display: block;
+        }
+      }
+    }
+    &:after {
+      content: '';
+      display: table;
+      clear: both;
+    }
+    @media screen and (max-width: 650px) {
+      .questions {
+        width: 100%;
+        float: none;
+        margin-bottom: 20px;
+        padding-bottom: 12px;
+        border-bottom: 1px dashed rgba(27,84,106,0.15);
+        text-align: center;
+        
+        h4 {
+          text-align: center;
+        }
+      }
+      .answer {
+        width: 100%;
+        float: none;
+        padding-left: 0;
+        text-align: center;
+
+        h5 {
+          text-align: center;
+        }
+      }
+    }
+  }
+  #contact {
+    h6 {
+      margin-bottom: 18px;
+    }
+    .input {
+      margin-bottom: 20px;
+    }
+    .submit-button {
+      display: block;
+      text-align: center;
+      margin-top: 20px;
+    }
+    #contact-success {
+      padding-top: 10px;
+      padding-bottom: 10px;
+      text-align: center;
+      display: none;
+  
+      p {
+        display: block;
+        font-size: 16px;
+        line-height: 26px;
+      }
+      &:before {
+        width: 100px;
+        height: 100px;
+        display: inline-block;
+        background: url('../images/checkmark.png') no-repeat;
+        background-size: 100px 100px;
+        content: '';
+        margin-bottom: 20px;
+      }
+    }
+    select {
+      outline: none;
+      border: 1px solid #e8e9ea;
+      padding: 16px 15px 17px 15px;
+      display: block;
+      width: 100%;
+      -webkit-appearance: none;
+      font: 15px/15px "Roboto",Helvetica,Arial,sans-serif;
+      cursor: pointer;
+      background: #fff url('../img/dropdown.png') right 14px center/16px 12px no-repeat;
+    }
+  }
+  .proxy-order {
+    margin-top: 30px;
+    padding-top: 30px;
+    border-top: 1px solid $color-border;
+
+    h3 {
+      font-size: 130%;
+    }
+    .subtitle {
+      font-size: 95%;
+      opacity: 0.7;
+    }
+  }
+  .proxy-select {
+    margin-top: 40px;
+  }
+  .plans {
+		margin-bottom: 20px;
+
+		article {
+			width: 23.5%;
+			margin-right: 2%;
+			float: left;
+			display: block;
+			padding: 24px 16px;
+			border-radius: 6px;
+			border: 1px solid $color-border;
+			cursor: pointer;
+			background: #fff;
+			text-align: center;
+			position: relative;
+
+			.count {
+				font-size: 40px;
+				line-height: 40px;
+				font-weight: $font-bold;
+				margin-bottom: 4px;
+			}
+			.price {
+				opacity: 0.3;
+			}
+			&:hover {
+				border-color: darken($color-border, 10%);
+				background: rgba(33,43,53,0.01);
+			}
+			&.selected, &.selected:hover {
+				background: #F9FDF9;
+				border-color: $color-green-light;
+				cursor: default;
+
+				.count, .price {
+					color: $color-green-light;
+					opacity: 1;
+				}
+			}
+			&.most-popular:before {
+				content: 'Most Popular';
+				text-transform: uppercase;
+				font-size: 12px;
+				line-height: 12px;
+				font-weight: $font-bold;
+				color: $color-primary;
+				background: $color-brand;
+				border-radius: 4px;
+				position: absolute;
+				top: -12px;
+				right: 8px;
+				padding: 6px;
+			}
+			&.custom {
+				padding-top: 28px;
+				padding-bottom: 28px;
+
+				.count {
+					font-size: 32px;
+					line-height: 32px;
+				}
+			}
+			&:last-of-type {
+				margin-right: 0;
+			}
+		}
+		&:after {
+			content: '';
+			display: table;
+			clear: both;
+		}
+	}
+	@media screen and (max-width: 700px) {
+		.plans article {
+			width: 48%;
+			margin-right: 2%;
+
+			&:nth-child(2n) {
+				margin-right: 0;
+				margin-bottom: 10px;
+			}
+			&:last-child {
+				margin-bottom: 0;
+			}
+		}
+	}
+	@media screen and (max-width: 500px) {
+		.plans article {
+			width: 100%;
+			margin-right: 0;
+			margin-bottom: 10px;
+
+			&:last-child {
+				margin-bottom: 0;
+			}
+			&.most-popular:before {
+				top: 4px;
+				right: 4px;
+			}
+		}
+	}
+}

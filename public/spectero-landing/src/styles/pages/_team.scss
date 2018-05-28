@@ -1,0 +1,42 @@
+.team-bios {
+  article {
+    display: flex;
+    margin-bottom: 50px;
+    padding-bottom: 50px;
+    border-bottom: 1px dashed $color-border;
+
+    &:last-child {
+      margin-bottom: 0;
+      padding-bottom: 0;
+      border-bottom: 0;
+    }
+    .bio-photo {
+      width: 128px;
+      height: 128px;
+      margin-right: 30px;
+      display: inline-block;
+      border-radius: 100%;
+      overflow: hidden;
+
+      img {
+        width: 100%;
+        height: 100%;
+        display: block;
+      }
+    }
+    .bio-description {
+      flex: 1;
+
+      p {
+        font-size: 90%;
+        line-height: 150%;
+      }
+      h3, h4 {
+        margin-bottom: 12px;
+      }
+    }
+    &.join-cta {
+      text-align: center;
+    }
+  }
+}

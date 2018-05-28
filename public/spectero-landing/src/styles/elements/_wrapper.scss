@@ -4,14 +4,24 @@
   height: 100%;
   margin: 0 auto;
   padding: 0 20px;
+  display: flex;
+  flex-direction: column;
+  
+  &.centered {
+    text-align: center;
+  }
 }
 .body-wrapper {
-  padding-top: 50px;
-  padding-bottom: 50px;
+  padding-top: 40px;
+  padding-bottom: 40px;
 }
 .body-white {
   background: $white;
 }
 .body-alt {
   background: $color-bg-alt;
+}
+.button-center-container {
+  padding-top: 30px;
+  text-align: center;
 }

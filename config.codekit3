@@ -7,7 +7,7 @@
 		"uuidString": "4D093B69-DACC-4A2D-8124-2B93ECC22356"
 		}
 	],
-"creatorBuild": "26330",
+"creatorBuild": "26680",
 "files": {
 	"\/.htaccess": {
 		"cB": 0,
@@ -152,6 +152,14 @@
 		"oA": 2,
 		"oAP": "\/public\/jobs.html",
 		"oF": 0
+		},
+	"\/public\/releases.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/public\/releases-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
 		},
 	"\/public\/spectero-landing\/assets\/css\/main.css": {
 		"aP": 1,
@@ -519,7 +527,8 @@
 	"creationDate": 527803983,
 	"displayValue": "spectero-website",
 	"displayValueWasSetByUser": 0,
-	"iconImageName": "meme-confusedBaby"
+	"iconImageName": "meme-confusedBaby",
+	"iconImageWasSetByUser": 0
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
@@ -2322,6 +2331,7 @@
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
+		"outputFormat": 0,
 		"quality": 100
 		},
 	"languageDefaultsJS": {
