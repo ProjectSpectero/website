@@ -3,8 +3,8 @@
   <head>
     <meta charset="utf-8">
     <title><?php echo (isset($html_title)) ? $html_title : 'Spectero' ?></title>
-    <link href="/assets/css/main.css" rel="stylesheet">
-    <link rel="shortcut icon" href="/favicon.png">
+    <link href="./assets/css/main.css" rel="stylesheet">
+    <link rel="shortcut icon" href="./favicon.png">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1">
     <!-- <script async src="https://www.googletagmanager.com/gtag/js?id=UA-107277606-1"></script>
     <script>
