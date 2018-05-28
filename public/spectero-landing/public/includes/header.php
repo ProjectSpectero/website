@@ -22,10 +22,10 @@
           <div class="header-nav">
             <nav class="header-nav-main">
               <ul>
-                <li><a href="/managed">Spectero Managed</a></li>
-                <li><a href="/downloads">Downloads</a></li>
-                <li><a href="/team">Team</a></li>
-                <li><a href="/careers">Careers</a></li>
+                <li><a href="./managed">Spectero Managed</a></li>
+                <li><a href="./downloads">Downloads</a></li>
+                <li><a href="./team">Team</a></li>
+                <li><a href="./careers">Careers</a></li>
                 <li><a href="https://discord.gg/CWn66H4" target="_blank">Discord Server</a></li>
               </ul>
             </nav>
