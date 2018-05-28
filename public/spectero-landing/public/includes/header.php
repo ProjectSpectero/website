@@ -18,7 +18,7 @@
     <header id="header-main">
       <div class="wrapper">
         <div class="header-top">
-        <a href="/"><div class="logo logo-md"></div></a>
+        <a href="./"><div class="logo logo-md"></div></a>
           <div class="header-nav">
             <nav class="header-nav-main">
               <ul>
