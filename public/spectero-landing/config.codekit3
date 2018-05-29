@@ -252,6 +252,13 @@
 		"oAP": "\/public\/downloads.php",
 		"oF": 0
 		},
+	"\/public\/enterprise.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/public\/enterprise.php",
+		"oF": 0
+		},
 	"\/public\/favicon.png": {
 		"ft": 32768,
 		"iS": 16952,
@@ -289,13 +296,6 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/public\/jobs.php",
-		"oF": 0
-		},
-	"\/public\/managed.php": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/public\/managed.php",
 		"oF": 0
 		},
 	"\/public\/team.php": {
@@ -494,6 +494,19 @@
 		"oS": 3,
 		"uL": 1
 		},
+	"\/src\/styles\/pages\/_enterprise.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/public\/assets\/css\/_enterprise.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
 	"\/src\/styles\/pages\/_homepage.scss": {
 		"aP": 1,
 		"bl": 0,
@@ -503,19 +516,6 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/public\/assets\/css\/_homepage.css",
-		"oF": 0,
-		"oS": 3,
-		"uL": 1
-		},
-	"\/src\/styles\/pages\/_managed.scss": {
-		"aP": 1,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/public\/assets\/css\/_managed.css",
 		"oF": 0,
 		"oS": 3,
 		"uL": 1
