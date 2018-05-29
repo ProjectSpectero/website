@@ -157,6 +157,56 @@
 		"oAP": "\/public\/assets\/fonts\/proximanova-semibold-webfont.woff",
 		"oF": 0
 		},
+	"\/public\/assets\/icons\/social-selection.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/public\/assets\/icons\/social-selection-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/public\/assets\/icons\/social.eot": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/public\/assets\/icons\/social.eot",
+		"oF": 0
+		},
+	"\/public\/assets\/icons\/social.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/public\/assets\/icons\/social.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/public\/assets\/icons\/social.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/public\/assets\/icons\/social.ttf",
+		"oF": 0
+		},
+	"\/public\/assets\/icons\/social.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/public\/assets\/icons\/social.woff",
+		"oF": 0
+		},
+	"\/public\/assets\/img\/checkmark.png": {
+		"ft": 32768,
+		"iS": 9929,
+		"oA": 0,
+		"oAP": "\/public\/assets\/img\/checkmark.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/public\/assets\/img\/dropdown.png": {
 		"ft": 32768,
 		"iS": 640,
@@ -347,6 +397,19 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/public\/assets\/css\/_fonts.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/src\/styles\/components\/_icons.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/public\/assets\/css\/_icons.css",
 		"oF": 0,
 		"oS": 3,
 		"uL": 1

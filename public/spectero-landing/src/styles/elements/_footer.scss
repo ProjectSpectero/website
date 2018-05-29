@@ -7,18 +7,69 @@
     padding-bottom: 30px;
     justify-content: center;
   }
-  .footer-content {
+  a {
+    color: rgba(255,255,255,0.6);
+    text-decoration: underline;
+
+    &:hover {
+      color: rgba(255,255,255,1);
+    }
+  }
+  .logo-social {
+    display: flex;
+    align-items: center;
+
+    .slogan {
+      flex: 1;
+    }
+    .social {
+      font-size: 120%;
+
+      a {
+        color: rgba(255,255,255,1);
+        display: inline-block;
+        margin-left: 6px;
+        text-decoration: none;
+      }
+    }
+  }
+  .logo-slogan {
     display: flex;
     align-items: center;
   }
   .logo {
+    width: 125+20px;
     float: left;
+    border-right: 1px solid rgba(255,255,255,0.2);
+    padding-right: 20px;
   }
-  .slogan {
+  .logo-text {
     float: left;
     margin-left: 20px;
     font-size: 15px;
     line-height: 100%;
     font-weight: $font-semi;
+  }
+  .company-info {
+    display: flex;
+    align-items: center;
+    margin-top: 30px;
+    padding-top: 30px;
+    border-top: 1px dashed rgba(255,255,255,0.2);
+
+    p {
+      line-height: 140%;
+    }
+    .info {
+      flex: 1;
+    }
+    .legal {
+      font-size: 90%;
+      
+      a {
+        margin-left: 14px;
+        text-decoration: none;
+      }
+    }
   }
 }

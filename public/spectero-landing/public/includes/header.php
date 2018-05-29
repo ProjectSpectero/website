@@ -32,7 +32,7 @@
             <nav class="header-nav-account">
               <ul>
                 <li><a href="https://app.spectero.com/login">Log In</a></li>
-                <li><a href="https://app.spectero.com/register">Sign Up</a></li>
+                <li><a href="./marketplace">Sign Up</a></li>
               </ul>
             </nav>
           </div>

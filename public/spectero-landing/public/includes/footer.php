@@ -1,8 +1,29 @@
     <footer id="footer-main">
       <div class="wrapper">
         <div class="footer-content">
-          <div class="logo logo-sm"></div>
-          <strong class="slogan">The Future of Peer to Peer VPN Sharing.</strong>
+          <div class="logo-social">
+            <div class="slogan">
+              <div class="logo logo-sm"></div>
+              <strong class="logo-text">The Future of Peer to Peer VPN Sharing.</strong>
+            </div>
+            <div class="social">
+              <a href="https://discord.gg/CWn66H4" target="_blank"><span class="icon-discord"></span></a>
+              <a href="https://twitter.com/specterovpn" target="_blank"><span class="icon-twitter"></span></a>
+              <a href="https://github.com/ProjectSpectero/" target="_blank"><span class="icon-github"></span></a>
+              <a href="mailto:contact@spectero.com"><span class="icon-mailru"></span></a>
+            </div>
+          </div>
+          <div class="company-info">
+            <div class="info">
+              <p><strong>Spectero, Inc.</strong></p>
+              <p>Seattle, WA</p>
+              <p>(206) 483-2177</p>
+            </div>
+            <div class="legal">
+              <a href="/tos">Terms of Service</a>
+              <a href="/privacy-policy">Privacy Policy</a>
+            </div>
+          </div>
         </div>
       </div>
     </footer>
