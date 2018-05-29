@@ -8,7 +8,25 @@ include ('./includes/header.php');
 <div id="managed">
   <section class="body-white">
     <div class="wrapper body-wrapper">
-      <div class="homepage-columns columns-how-it-works">
+      <div class="section-title">
+        <h2>How It Works</h2>
+        <p class="section-description">Our custom daemon software allows you to set up, manage and profit from your bandwidth in minutes.</p>
+      </div>
+      <div class="feature-columns spaced columns-how-it-works">
+        <div class="col">
+          <h3>Simple Setup</h3>
+          <p>The setup process involves a single download, a few clicks and you’re ready to go. Our software was built to be plug and play.</p>
+        </div>
+        <div class="col">
+          <h3>List Your Connection</h3>
+          <p>We made it dead simple to list your connection on the Spectero Marketplace. In just a few clicks you’ll monetize your connection.</p>
+        </div>
+        <div class="col">
+          <h3>Get Paid</h3>
+          <p>You get paid a flat percentage on all bandwidth that’s routed through your connection, paid out in cash straight to your bank account.</p>
+        </div>
+      </div>
+      <div class="feature-columns columns-how-it-works">
         <div class="col">
           <h3>Automatic IP Rotation</h3>
           <p>Our IP rotator employs a state of the art IP rotation system that allows full anonymity. The tool designed to minimize probability of IP based blocking, captcha implementation, throttling and false data delivery.</p>
@@ -75,7 +93,7 @@ include ('./includes/header.php');
         <h2>Fully Featured Proxies</h2>
         <p class="section-description">Each proxy we host supports the following features.</p>
       </div>
-      <div class="homepage-columns columns-how-it-works">
+      <div class="feature-columns columns-how-it-works">
         <div class="col">
           <h3>Advanced Monitoring</h3>
           <p>Our advanced IP Rotator provides detailed statistics about all the queries you make. It allows you to monitor your usage and costs, enabling you to adjust them depending on your needs.</p>
