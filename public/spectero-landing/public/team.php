@@ -8,50 +8,50 @@ include ('./includes/header.php');
 <section id="team" class="body-white">
   <div class="wrapper body-wrapper team-bios">
     <article>
-      <div class="bio-photo"><img src="https://anatolie.me/assets/img/me.jpg" alt="Anatolie Diordita" /></div>
+      <div class="bio-photo"><img src="https://ca.slack-edge.com/T6LF4KTLP-U8N3PK5DL-fcc56d2e2892-72" alt="Sergio" /></div>
       <div class="bio-description">
         <header>
-          <h3>Anatolie Diordita</h3>
+          <h3>Sergio</h3>
           <h4>Co-founder, lead of frontend development</h4>
         </header>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vestibulum eros nec magna consequat, vel vehicula diam bibendum. Sed sed hendrerit enim. In semper sit amet neque et lacinia. Donec eleifend mi vel nunc vestibulum lobortis sed sed leo. Mauris facilisis, urna at consequat hendrerit, turpis mauris faucibus massa, et finibus purus mauris sed leo. In hac habitasse platea dictumst. Donec vulputate gravida est, a maximus justo porta gravida. Phasellus bibendum massa felis, eu condimentum lorem iaculis vitae. Phasellus sed purus rutrum, viverra augue nec, rutrum lacus. Pellentesque viverra, sapien ullamcorper venenatis pellentesque, ex lorem consequat tellus, a commodo augue lacus sit amet urna.</p>
       </div>
     </article>
     <article>
-      <div class="bio-photo"><img src="https://anatolie.me/assets/img/me.jpg" alt="Anatolie Diordita" /></div>
+      <div class="bio-photo"><img src="https://ca.slack-edge.com/T6LF4KTLP-U8N3PK5DL-fcc56d2e2892-72" alt="Sergio" /></div>
       <div class="bio-description">
         <header>
-          <h3>Anatolie Diordita</h3>
+          <h3>Sergio</h3>
           <h4>Co-Founder, lead of frontend development</h4>
         </header>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vestibulum eros nec magna consequat, vel vehicula diam bibendum. Sed sed hendrerit enim. In semper sit amet neque et lacinia. Donec eleifend mi vel nunc vestibulum lobortis sed sed leo. Mauris facilisis, urna at consequat hendrerit, turpis mauris faucibus massa, et finibus purus mauris sed leo. In hac habitasse platea dictumst. Donec vulputate gravida est, a maximus justo porta gravida. Phasellus bibendum massa felis, eu condimentum lorem iaculis vitae. Phasellus sed purus rutrum, viverra augue nec, rutrum lacus. Pellentesque viverra, sapien ullamcorper venenatis pellentesque, ex lorem consequat tellus, a commodo augue lacus sit amet urna.</p>
       </div>
     </article>
     <article>
-      <div class="bio-photo"><img src="https://anatolie.me/assets/img/me.jpg" alt="Anatolie Diordita" /></div>
+      <div class="bio-photo"><img src="https://ca.slack-edge.com/T6LF4KTLP-U8N3PK5DL-fcc56d2e2892-72" alt="Sergio" /></div>
       <div class="bio-description">
         <header>
-          <h3>Anatolie Diordita</h3>
+          <h3>Sergio</h3>
           <h4>Co-Founder, lead of frontend development</h4>
         </header>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vestibulum eros nec magna consequat, vel vehicula diam bibendum. Sed sed hendrerit enim. In semper sit amet neque et lacinia. Donec eleifend mi vel nunc vestibulum lobortis sed sed leo. Mauris facilisis, urna at consequat hendrerit, turpis mauris faucibus massa, et finibus purus mauris sed leo. In hac habitasse platea dictumst. Donec vulputate gravida est, a maximus justo porta gravida. Phasellus bibendum massa felis, eu condimentum lorem iaculis vitae. Phasellus sed purus rutrum, viverra augue nec, rutrum lacus. Pellentesque viverra, sapien ullamcorper venenatis pellentesque, ex lorem consequat tellus, a commodo augue lacus sit amet urna.</p>
       </div>
     </article>
     <article>
-      <div class="bio-photo"><img src="https://anatolie.me/assets/img/me.jpg" alt="Anatolie Diordita" /></div>
+      <div class="bio-photo"><img src="https://ca.slack-edge.com/T6LF4KTLP-U8N3PK5DL-fcc56d2e2892-72" alt="Sergio" /></div>
       <div class="bio-description">
         <header>
-          <h3>Anatolie Diordita</h3>
+          <h3>Sergio</h3>
           <h4>Co-Founder, lead of frontend development</h4>
         </header>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vestibulum eros nec magna consequat, vel vehicula diam bibendum. Sed sed hendrerit enim. In semper sit amet neque et lacinia. Donec eleifend mi vel nunc vestibulum lobortis sed sed leo. Mauris facilisis, urna at consequat hendrerit, turpis mauris faucibus massa, et finibus purus mauris sed leo. In hac habitasse platea dictumst. Donec vulputate gravida est, a maximus justo porta gravida. Phasellus bibendum massa felis, eu condimentum lorem iaculis vitae. Phasellus sed purus rutrum, viverra augue nec, rutrum lacus. Pellentesque viverra, sapien ullamcorper venenatis pellentesque, ex lorem consequat tellus, a commodo augue lacus sit amet urna.</p>
       </div>
     </article>
     <article>
-      <div class="bio-photo"><img src="https://anatolie.me/assets/img/me.jpg" alt="Anatolie Diordita" /></div>
+      <div class="bio-photo"><img src="https://ca.slack-edge.com/T6LF4KTLP-U8N3PK5DL-fcc56d2e2892-72" alt="Sergio" /></div>
       <div class="bio-description">
         <header>
-          <h3>Anatolie Diordita</h3>
+          <h3>Sergio</h3>
           <h4>Co-Founder, lead of frontend development</h4>
         </header>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vestibulum eros nec magna consequat, vel vehicula diam bibendum. Sed sed hendrerit enim. In semper sit amet neque et lacinia. Donec eleifend mi vel nunc vestibulum lobortis sed sed leo. Mauris facilisis, urna at consequat hendrerit, turpis mauris faucibus massa, et finibus purus mauris sed leo. In hac habitasse platea dictumst. Donec vulputate gravida est, a maximus justo porta gravida. Phasellus bibendum massa felis, eu condimentum lorem iaculis vitae. Phasellus sed purus rutrum, viverra augue nec, rutrum lacus. Pellentesque viverra, sapien ullamcorper venenatis pellentesque, ex lorem consequat tellus, a commodo augue lacus sit amet urna.</p>
