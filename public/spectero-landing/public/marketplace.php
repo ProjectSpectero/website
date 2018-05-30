@@ -41,7 +41,7 @@ include ('./includes/header.php');
       </div>
     </div>
   </section>
-  <section id="our-ecosystem" class="body-alt">
+  <!-- <section id="our-ecosystem" class="body-alt">
     <div class="wrapper body-wrapper">
       <div class="section-title">
         <h2>Our Ecosystem</h2>
@@ -49,24 +49,24 @@ include ('./includes/header.php');
       </div>
       <div class="feature-columns columns-ecosystem">
         <div class="col">
-          <strong>3,490</strong>
+          <strong>0</strong>
           <p>Unique connections listed</p>
         </div>
         <div class="col">
-          <strong>$1.4m</strong>
+          <strong>$0</strong>
           <p>Paid out to connection hosts</p>
         </div>
         <div class="col">
-          <strong>432K</strong>
+          <strong>0</strong>
           <p>Active connection users</p>
         </div>
         <div class="col">
-          <strong>14ms</strong>
+          <strong>0ms</strong>
           <p>Global average ping</p>
         </div>
       </div>
     </div>
-  </section>
+  </section> -->
   <section class="body-white">
     <div class="wrapper body-wrapper">
       <div class="mailing-form">
