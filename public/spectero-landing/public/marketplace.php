@@ -6,6 +6,18 @@ $header_content = '<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. V
 include ('./includes/header.php');
 ?>
 <div id="marketplace">
+  <section class="body-white">
+    <div class="wrapper body-wrapper wrapper-mailing-form">
+      <div class="mailing-form">
+        <p>Interested in joining our global marketplace? Join our waiting list.</p>
+        <form action="https://spectero.us12.list-manage.com/subscribe/post?u=561df051651ece8ea77ec2a7f&amp;id=1a989802f2" method="post">
+          <input type="email" name="EMAIL" class="input" placeholder="Enter your email">
+          <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_561df051651ece8ea77ec2a7f_1a989802f2" tabindex="-1" value=""></div>
+          <button type="submit" value="Subscribe" class="button">Subscribe</button>
+        </form>
+      </div>
+    </div>
+  </section>
   <section id="how-it-works" class="body-white">
     <div class="wrapper body-wrapper">
       <div class="section-title">
@@ -67,17 +79,5 @@ include ('./includes/header.php');
       </div>
     </div>
   </section> -->
-  <section class="body-white">
-    <div class="wrapper body-wrapper">
-      <div class="mailing-form">
-        <p>Interested in joining our global marketplace? Join our waiting list.</p>
-        <form action="https://spectero.us12.list-manage.com/subscribe/post?u=561df051651ece8ea77ec2a7f&amp;id=1a989802f2" method="post">
-          <input type="email" name="EMAIL" class="input" placeholder="Enter your email">
-          <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_561df051651ece8ea77ec2a7f_1a989802f2" tabindex="-1" value=""></div>
-          <button type="submit" value="Subscribe" class="button">Subscribe</button>
-        </form>
-      </div>
-    </div>
-  </section>
 </div>
 <?php include ('./includes/footer.php'); ?>
