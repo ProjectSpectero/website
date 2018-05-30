@@ -271,6 +271,17 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/public\/assets\/img\/screenshot-spectero-cli.png": {
+		"ft": 32768,
+		"iS": 508806,
+		"oA": 0,
+		"oAP": "\/public\/assets\/img\/screenshot-spectero-cli.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/public\/assets\/js\/main-min.js": {
 		"ft": 64,
 		"ma": 0,
@@ -346,6 +357,13 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/public\/jobs.php",
+		"oF": 0
+		},
+	"\/public\/marketplace.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/public\/marketplace.php",
 		"oF": 0
 		},
 	"\/public\/team.php": {
@@ -579,6 +597,19 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/public\/assets\/css\/_homepage.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/src\/styles\/pages\/_marketplace.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/public\/assets\/css\/_marketplace.css",
 		"oF": 0,
 		"oS": 3,
 		"uL": 1

@@ -3,7 +3,7 @@ $html_title = 'Spectero - The Future of Peer to Peer VPN Sharing.';
 $header_h1 = 'Introducing the <strong>Spectero Marketplace.</strong>';
 $header_content = '<p>Welcome to the future of peer to peer VPN sharing. Using our open source VPN server software, setup, manage and configure your own VPN with simplified remote management.</p>
 <p>List your server on the Spectero Marketplace and <strong class="text-color-brand">earn extra cash</strong> by selling your unused bandwidth.</p>
-<a href="/marketplace" class="button">Learn More</a>';
+<a href="./marketplace" class="button">Learn More</a>';
 $header_screenshot = 'marketplace';
 
 include ('./includes/header.php');

@@ -57,21 +57,6 @@
     color: #6D7073;
   }
 }
-// .columns-ecosystem {
-//   max-width: 860px;
-  
-//   strong {
-//     margin-bottom: 16px;
-//     font-size: 40px;
-//     line-height: 120%;
-//     font-weight: $font-bold;
-//   }
-//   p {
-//     font-size: 16px;
-//     line-height: 160%;
-//     color: #6D7073;
-//   }
-// }
 
 #ecosystem {
   .section-title {
@@ -94,6 +79,11 @@
   }
   &:last-child {
     margin-bottom: 0;
+  }
+  &.spaced {
+    margin-top: 40px;
+    padding-top: 50px;
+    border-top: 1px dashed $color-border;
   }
 
   .section-image {

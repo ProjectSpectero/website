@@ -22,11 +22,12 @@
           <div class="header-nav">
             <nav class="header-nav-main">
               <ul>
-                <li><a href="./enterprise">Spectero Enterprise</a></li>
+                <li><a href="./enterprise">Enterprise</a></li>
+                <li><a href="./marketplace">Marketplace</a></li>
                 <li><a href="./downloads">Downloads</a></li>
                 <li><a href="./team">Team</a></li>
                 <li><a href="./careers">Careers</a></li>
-                <li><a href="https://discord.gg/CWn66H4" target="_blank">Discord Server</a></li>
+                <li><a href="https://discord.gg/CWn66H4" target="_blank">Discord</a></li>
               </ul>
             </nav>
             <nav class="header-nav-account">
