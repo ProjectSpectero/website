@@ -1,6 +1,6 @@
 <?php
-$html_title = 'Spectero Marketplace';
-$header_h1 = 'Spectero Marketplace';
+$html_title = 'Spectero Control Panel &amp; Marketplace';
+$header_h1 = 'Spectero Control Panel &amp; Marketplace';
 $header_content = '<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus id malesuada ex, id tincidunt massa. Suspendisse eu ullamcorper arcu.</p>';
 
 include ('./includes/header.php');
@@ -42,8 +42,21 @@ include ('./includes/header.php');
         <div class="section-image market"></div>
         <article>
           <header>
-            <div class="icon-boxed green"></div>
+            <div class="icon-boxed blue"></div>
             <h3>Global Marketplace</h3>
+          </header>
+          <div class="info">
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus id malesuada ex, id tincidunt massa. Suspendisse eu ullamcorper arcu. Mauris eros risus, viverra dignissim cursus a, congue a mi. Nulla sem sapien, luctus a magna et, blandit sodales eros. Donec bibendum eros at odio venenatis fermentum ut et orci.</p>
+            <a href="#" class="learn-more">Learn More</a>
+          </div>
+        </article>
+      </div>
+      <div class="homepage-section">
+        <div class="section-image daemon"></div>
+        <article>
+          <header>
+            <div class="icon-boxed"></div>
+            <h3>Spectero Daemon</h3>
           </header>
           <div class="info">
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus id malesuada ex, id tincidunt massa. Suspendisse eu ullamcorper arcu. Mauris eros risus, viverra dignissim cursus a, congue a mi. Nulla sem sapien, luctus a magna et, blandit sodales eros. Donec bibendum eros at odio venenatis fermentum ut et orci.</p>
