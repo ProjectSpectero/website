@@ -27,11 +27,11 @@ include ('./includes/header.php');
         </div>
       </div>
       <div class="homepage-section spaced">
-        <div class="section-image"></div>
+        <div class="section-image market"></div>
         <article>
           <header>
             <div class="icon-boxed green"></div>
-            <h3>Spectero Cloud Panel</h3>
+            <h3>Global Marketplace</h3>
           </header>
           <div class="info">
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus id malesuada ex, id tincidunt massa. Suspendisse eu ullamcorper arcu. Mauris eros risus, viverra dignissim cursus a, congue a mi. Nulla sem sapien, luctus a magna et, blandit sodales eros. Donec bibendum eros at odio venenatis fermentum ut et orci.</p>

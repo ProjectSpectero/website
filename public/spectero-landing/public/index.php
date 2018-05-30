@@ -15,7 +15,7 @@ include ('./includes/header.php');
       <p class="section-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus id malesuada ex, id tincidunt massa.</p>
     </div>
     <div class="homepage-section">
-      <div class="section-image"></div>
+      <div class="section-image daemon"></div>
       <article>
         <header>
           <div class="icon-boxed"></div>
@@ -28,7 +28,7 @@ include ('./includes/header.php');
       </article>
     </div>
     <div class="homepage-section">
-      <div class="section-image"></div>
+      <div class="section-image panel"></div>
       <article>
         <header>
           <div class="icon-boxed orange"></div>
@@ -41,7 +41,7 @@ include ('./includes/header.php');
       </article>
     </div>
     <div class="homepage-section">
-      <div class="section-image"></div>
+      <div class="section-image market"></div>
       <article>
         <header>
           <div class="icon-boxed blue"></div>
@@ -54,7 +54,9 @@ include ('./includes/header.php');
       </article>
     </div>
     <div class="homepage-section">
-      <div class="section-image"></div>
+      <div class="section-image enterprise">
+        <div class="diagram-enterprise"></div>
+      </div>
       <article>
         <header>
           <div class="icon-boxed dark"></div>

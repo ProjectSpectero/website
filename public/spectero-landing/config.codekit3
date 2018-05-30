@@ -260,6 +260,17 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/public\/assets\/img\/screenshot-daemon.png": {
+		"ft": 32768,
+		"iS": 986319,
+		"oA": 0,
+		"oAP": "\/public\/assets\/img\/screenshot-daemon.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
 	"\/public\/assets\/img\/screenshot-market.png": {
 		"ft": 32768,
 		"iS": 323230,
@@ -271,11 +282,11 @@
 		"oT": 1,
 		"q": 100
 		},
-	"\/public\/assets\/img\/screenshot-spectero-cli.png": {
+	"\/public\/assets\/img\/screenshot-panel.png": {
 		"ft": 32768,
-		"iS": 508806,
+		"iS": 177411,
 		"oA": 0,
-		"oAP": "\/public\/assets\/img\/screenshot-spectero-cli.png",
+		"oAP": "\/public\/assets\/img\/screenshot-panel.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,

@@ -91,9 +91,30 @@
     height: 340px;
     display: block;
     margin-right: 50px;
-    background: #eee;
-    box-shadow: 0px 0px 29px -6px rgba(0,0,0,0.4);
-    background: url(../img/screenshot-market.png) no-repeat 0 0/100% 100%;
+    background-color: #fff;
+    box-shadow: 0px 0px 29px -6px rgba(0,0,0,0.2);
+    border-radius: 6px;
+
+    &.market {
+      background: url(../img/screenshot-market.png) no-repeat 0 0/100% 100%;
+    }
+    &.panel {
+      background: url(../img/screenshot-panel.png) no-repeat 0 0/100% 100%;
+    }
+    &.daemon {
+      background: url(../img/screenshot-daemon.png) no-repeat 0 0/100% 100%;
+    }
+    &.enterprise {
+      // padding: 30px;
+      box-shadow: none;
+
+      .diagram-enterprise {
+        width: 100%;
+        height: 100%;
+        display: block;
+        background: url(../img/managed-diagram-mini.png) no-repeat center/80% 90%;
+      }
+    }
   }
   article {
     flex: 1;
