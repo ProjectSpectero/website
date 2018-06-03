@@ -6,13 +6,13 @@
     <link href="./assets/css/main.css" rel="stylesheet">
     <link rel="shortcut icon" href="./favicon.png">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1">
-    <!-- <script async src="https://www.googletagmanager.com/gtag/js?id=UA-107277606-1"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-107277606-1"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
       gtag('config', 'UA-107277606-1');
-    </script> -->
+    </script>
   </head>
   <body>
     <header id="header-main">
@@ -23,9 +23,9 @@
             <div class="navs">
               <nav class="header-nav-main">
                 <ul>
-                  <li><a href="./enterprise">Enterprise</a></li>
-                  <li><a href="./marketplace">Marketplace</a></li>
                   <li><a href="./downloads">Downloads</a></li>
+                  <li><a href="./marketplace">Marketplace</a></li>
+                  <li><a href="./enterprise">Enterprise</a></li>
                   <li><a href="./team">Team</a></li>
                   <li><a href="./careers">Careers</a></li>
                 </ul>
