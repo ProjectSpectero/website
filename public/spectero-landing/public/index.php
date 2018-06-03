@@ -4,7 +4,7 @@ $header_h1 = 'Introducing the <strong>Spectero Marketplace.</strong>';
 $header_content = '<p>Welcome to the future of peer to peer VPN sharing. Using our open source VPN server software, setup, manage and configure your own VPN with simplified remote management.</p>
 <p>List your server on the Spectero Marketplace and <strong class="text-color-brand">earn extra cash</strong> by selling your unused bandwidth.</p>
 <a href="./marketplace" class="button">Learn More</a>';
-$header_screenshot = 'marketplace';
+$header_screenshot = 'screenshot-market-cropped.png';
 
 include ('./includes/header.php');
 ?>
@@ -15,7 +15,9 @@ include ('./includes/header.php');
       <p class="section-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus id malesuada ex, id tincidunt massa.</p>
     </div>
     <div class="homepage-section">
-      <div class="section-image daemon"></div>
+      <div class="section-image">
+        <img src="./assets/img/screenshot-daemon.png" alt="Spectero Daemon" />
+      </div>
       <article>
         <header>
           <div class="icon-boxed"></div>
@@ -28,7 +30,9 @@ include ('./includes/header.php');
       </article>
     </div>
     <div class="homepage-section">
-      <div class="section-image panel"></div>
+      <div class="section-image">
+      <img src="./assets/img/screenshot-panel.png" alt="Spectero Cloud Panel" />
+      </div>
       <article>
         <header>
           <div class="icon-boxed orange"></div>
@@ -41,7 +45,9 @@ include ('./includes/header.php');
       </article>
     </div>
     <div class="homepage-section">
-      <div class="section-image market"></div>
+      <div class="section-image">
+      <img src="./assets/img/screenshot-market.png" alt="Spectero Marketplace" />
+      </div>
       <article>
         <header>
           <div class="icon-boxed blue"></div>
@@ -55,7 +61,7 @@ include ('./includes/header.php');
     </div>
     <div class="homepage-section">
       <div class="section-image enterprise">
-        <div class="diagram-enterprise"></div>
+        <img src="./assets/img/managed-diagram-mini.png" alt="Spectero Marketplace" />
       </div>
       <article>
         <header>

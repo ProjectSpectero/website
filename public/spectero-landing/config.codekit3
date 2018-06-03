@@ -260,6 +260,16 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/public\/assets\/img\/menu.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/public\/assets\/img\/menu.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
 	"\/public\/assets\/img\/screenshot-daemon.png": {
 		"ft": 32768,
 		"iS": 986319,
@@ -268,6 +278,17 @@
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/public\/assets\/img\/screenshot-market-cropped.png": {
+		"ft": 32768,
+		"iS": 230195,
+		"oA": 0,
+		"oAP": "\/public\/assets\/img\/screenshot-market-cropped.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -291,6 +312,61 @@
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
+		"q": 100
+		},
+	"\/public\/assets\/img\/team-anatolie.jpg": {
+		"ft": 16384,
+		"iS": 63987,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/public\/assets\/img\/team-anatolie.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/public\/assets\/img\/team-andrew.jpg": {
+		"ft": 16384,
+		"iS": 52761,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/public\/assets\/img\/team-andrew.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/public\/assets\/img\/team-paul.JPG": {
+		"ft": 16384,
+		"iS": 43417,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/public\/assets\/img\/team-paul.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/public\/assets\/img\/team-robert.jpg": {
+		"ft": 16384,
+		"iS": 37713,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/public\/assets\/img\/team-robert.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/public\/assets\/img\/team-sergio.jpg": {
+		"ft": 16384,
+		"iS": 42782,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/public\/assets\/img\/team-sergio.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"\/public\/assets\/js\/main-min.js": {

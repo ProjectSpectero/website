@@ -47,7 +47,7 @@
     float: left;
     margin-left: 20px;
     font-size: 15px;
-    line-height: 100%;
+    line-height: 120%;
     font-weight: $font-semi;
     position: relative;
     top: 2px;
@@ -77,6 +77,33 @@
         margin-left: 14px;
         text-decoration: none;
       }
+    }
+  }
+
+  @media screen and (max-width: 650px) {
+    .logo-social {
+      text-align: center;
+      flex-direction: column;
+    }
+    .slogan {
+      display: block;
+      width: 100%;
+    }
+    .logo {
+      float: none;
+      display: inline-block;
+      padding-right: 0;
+      border-right: none;
+    }
+    .logo-text {
+      float: none;
+      display: block;
+      margin-left: 0;
+      margin-top: 6px;
+      font-size: 13px;
+    }
+    .social {
+      margin-top: 24px;
     }
   }
 }

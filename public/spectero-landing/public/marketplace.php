@@ -38,8 +38,10 @@ include ('./includes/header.php');
           <p>You get paid a flat percentage on all bandwidth that’s routed through your connection, paid out in cash straight to your bank account.</p>
         </div>
       </div>
-      <div class="homepage-section spaced">
-        <div class="section-image market"></div>
+      <div class="homepage-section">
+        <div class="section-image">
+        <img src="./assets/img/screenshot-market.png" alt="Spectero Marketplace" />
+        </div>
         <article>
           <header>
             <div class="icon-boxed blue"></div>
@@ -52,7 +54,9 @@ include ('./includes/header.php');
         </article>
       </div>
       <div class="homepage-section">
-        <div class="section-image panel"></div>
+        <div class="section-image">
+        <img src="./assets/img/screenshot-panel.png" alt="Spectero Cloud Panel" />
+        </div>
         <article>
           <header>
             <div class="icon-boxed orange"></div>

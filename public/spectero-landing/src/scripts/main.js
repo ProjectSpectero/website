@@ -1,6 +1,10 @@
 // @codekit-prepend "dep/jquery.validate.min.js";
 
 $(function() {
+	$('.responsive-nav-toggle').click(function (e) {
+		$('.header-nav').toggleClass('responsive-show')
+		e.preventDefault()
+	});
 
 	$('.faq .questions li').click(function(e) {
 		var container = $('.faq .questions');
@@ -99,5 +103,4 @@ $(function() {
 			scrollTop: $(div).offset().top
 		}, 400);
 	});
-
 });
