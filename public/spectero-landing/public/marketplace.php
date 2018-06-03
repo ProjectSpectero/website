@@ -49,7 +49,7 @@ include ('./includes/header.php');
           </header>
           <div class="info">
             <p>Our marketplace is the first of it's kind in the VPN space. We offer robust search capabilities to easily find VPN servers in specific networks/countries along with multiple payment gateways for fast payment and setup. Tight integration with our enterprise customerbase means you can profit from daemon deployments at any scale.</p>
-            <a href="#" class="learn-more">Learn More</a>
+            <!--<a href="#" class="learn-more">Learn More</a>-->
           </div>
         </article>
       </div>
@@ -65,7 +65,7 @@ include ('./includes/header.php');
           <div class="info">
             <p>Offering powerful management capabilities our cloud panel enables for easy remote configuration of your daemon instance. Adding/removing users, modifying proxy servers, downloading configurations and running commands in bulk on groups of servers can be done with just a few clicks.
 </p>
-            <a href="#" class="learn-more">Learn More</a>
+            <!--<a href="#" class="learn-more">Learn More</a>-->
           </div>
         </article>
       </div>
