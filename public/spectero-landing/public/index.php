@@ -12,7 +12,7 @@ include ('./includes/header.php');
   <div class="wrapper body-wrapper">
     <div class="section-title">
       <h2>Our Ecosystem</h2>
-      <p class="section-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus id malesuada ex, id tincidunt massa.</p>
+      <p class="section-description">Spectero offers an array of products and services to support your VPN/data intelligence requirements.</p>
     </div>
     <div class="homepage-section">
       <div class="section-image">
@@ -39,7 +39,7 @@ include ('./includes/header.php');
           <h3>Spectero Cloud Panel</h3>
         </header>
         <div class="info">
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus id malesuada ex, id tincidunt massa. Suspendisse eu ullamcorper arcu. Mauris eros risus, viverra dignissim cursus a, congue a mi. Nulla sem sapien, luctus a magna et, blandit sodales eros. Donec bibendum eros at odio venenatis fermentum ut et orci.</p>
+          <p>Offering powerful management capabilities our cloud panel enables for easy remote configuration of your daemon instance. Adding/removing users, modifying proxy servers, downloading configurations and running commands in bulk on groups of servers can be done with just a few clicks.</p>
           <!-- <a href="#" class="learn-more">Learn More</a> -->
         </div>
       </article>
@@ -54,7 +54,7 @@ include ('./includes/header.php');
           <h3>Spectero Marketplace</h3>
         </header>
         <div class="info">
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus id malesuada ex, id tincidunt massa. Suspendisse eu ullamcorper arcu. Mauris eros risus, viverra dignissim cursus a, congue a mi. Nulla sem sapien, luctus a magna et, blandit sodales eros. Donec bibendum eros at odio venenatis fermentum ut et orci.</p>
+          <p>Our marketplace is the first of it's kind in the VPN space. We offer robust search capabilities to easily find VPN servers in specific networks/countries along with multiple payment gateways for fast payment and setup. Tight integration with our enterprise customerbase means you can profit from daemon deployments at any scale.</p>
           <!-- <a href="#" class="learn-more">Learn More</a> -->
         </div>
       </article>
@@ -69,7 +69,7 @@ include ('./includes/header.php');
           <h3>Spectero Enterprise</h3>
         </header>
         <div class="info">
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus id malesuada ex, id tincidunt massa. Suspendisse eu ullamcorper arcu. Mauris eros risus, viverra dignissim cursus a, congue a mi. Nulla sem sapien, luctus a magna et, blandit sodales eros. Donec bibendum eros at odio venenatis fermentum ut et orci.</p>
+          <p>Private Proxies by Spectero Enterprise provide over 100 GB/s of network throughput to customers all over the globe. Automatic IP rotation and dedicated proxy servers provide a private, secure and lightning fast experience. Contact us today and see why businesses around the globe trust us to help extract essential business intelligence data.</p>
           <!-- <a href="#" class="learn-more">Learn More</a> -->
         </div>
       </article>
