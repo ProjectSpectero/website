@@ -28,7 +28,6 @@
                   <li><a href="./downloads">Downloads</a></li>
                   <li><a href="./team">Team</a></li>
                   <li><a href="./careers">Careers</a></li>
-                  <li><a href="https://discord.gg/CWn66H4" target="_blank">Discord</a></li>
                 </ul>
               </nav>
               <nav class="header-nav-account">
