@@ -62,7 +62,7 @@ include ('./includes/header.php');
         <header>
           <h3>Interested in contributing to the project? We'd love to have you on our team.</h3>
         </header>
-        <a href="/careers" class="button">See Available Positions</a>
+        <a href="./careers" class="button">See Available Positions</a>
       </div>
     </article>
   </div>
