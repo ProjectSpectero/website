@@ -8,53 +8,53 @@ include ('./includes/header.php');
 <section id="team" class="body-white">
   <div class="wrapper body-wrapper team-bios">
     <article>
-      <div class="bio-photo"><img src="https://ca.slack-edge.com/T6LF4KTLP-U8N3PK5DL-fcc56d2e2892-72" alt="Sergio" /></div>
+      <div class="bio-photo"><img src="./assets/img/team-robert.jpg" /></div>
       <div class="bio-description">
         <header>
-          <h3>Sergio</h3>
-          <h4>Co-founder, lead of frontend development</h4>
+          <h3>Robert</h3>
+          <h4>Position</h4>
         </header>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vestibulum eros nec magna consequat, vel vehicula diam bibendum. Sed sed hendrerit enim. In semper sit amet neque et lacinia. Donec eleifend mi vel nunc vestibulum lobortis sed sed leo. Mauris facilisis, urna at consequat hendrerit, turpis mauris faucibus massa, et finibus purus mauris sed leo. In hac habitasse platea dictumst. Donec vulputate gravida est, a maximus justo porta gravida. Phasellus bibendum massa felis, eu condimentum lorem iaculis vitae. Phasellus sed purus rutrum, viverra augue nec, rutrum lacus. Pellentesque viverra, sapien ullamcorper venenatis pellentesque, ex lorem consequat tellus, a commodo augue lacus sit amet urna.</p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vestibulum eros nec magna consequat, vel vehicula diam bibendum. Sed sed hendrerit enim. In semper sit amet neque et lacinia. Donec eleifend mi vel nunc vestibulum lobortis sed sed leo.</p>
       </div>
     </article>
     <article>
-      <div class="bio-photo"><img src="https://ca.slack-edge.com/T6LF4KTLP-U8N3PK5DL-fcc56d2e2892-72" alt="Sergio" /></div>
+      <div class="bio-photo"><img src="./assets/img/team-paul.jpg" /></div>
       <div class="bio-description">
         <header>
-          <h3>Sergio</h3>
-          <h4>Co-Founder, lead of frontend development</h4>
+          <h3>Paul</h3>
+          <h4>Position</h4>
         </header>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vestibulum eros nec magna consequat, vel vehicula diam bibendum. Sed sed hendrerit enim. In semper sit amet neque et lacinia. Donec eleifend mi vel nunc vestibulum lobortis sed sed leo. Mauris facilisis, urna at consequat hendrerit, turpis mauris faucibus massa, et finibus purus mauris sed leo. In hac habitasse platea dictumst. Donec vulputate gravida est, a maximus justo porta gravida. Phasellus bibendum massa felis, eu condimentum lorem iaculis vitae. Phasellus sed purus rutrum, viverra augue nec, rutrum lacus. Pellentesque viverra, sapien ullamcorper venenatis pellentesque, ex lorem consequat tellus, a commodo augue lacus sit amet urna.</p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vestibulum eros nec magna consequat, vel vehicula diam bibendum. Sed sed hendrerit enim. In semper sit amet neque et lacinia. Donec eleifend mi vel nunc vestibulum lobortis sed sed leo.</p>
       </div>
     </article>
     <article>
-      <div class="bio-photo"><img src="https://ca.slack-edge.com/T6LF4KTLP-U8N3PK5DL-fcc56d2e2892-72" alt="Sergio" /></div>
+      <div class="bio-photo"><img src="./assets/img/team-anatolie.jpg" /></div>
       <div class="bio-description">
         <header>
-          <h3>Sergio</h3>
-          <h4>Co-Founder, lead of frontend development</h4>
+          <h3>Anatolie</h3>
+          <h4>Position</h4>
         </header>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vestibulum eros nec magna consequat, vel vehicula diam bibendum. Sed sed hendrerit enim. In semper sit amet neque et lacinia. Donec eleifend mi vel nunc vestibulum lobortis sed sed leo. Mauris facilisis, urna at consequat hendrerit, turpis mauris faucibus massa, et finibus purus mauris sed leo. In hac habitasse platea dictumst. Donec vulputate gravida est, a maximus justo porta gravida. Phasellus bibendum massa felis, eu condimentum lorem iaculis vitae. Phasellus sed purus rutrum, viverra augue nec, rutrum lacus. Pellentesque viverra, sapien ullamcorper venenatis pellentesque, ex lorem consequat tellus, a commodo augue lacus sit amet urna.</p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vestibulum eros nec magna consequat, vel vehicula diam bibendum. Sed sed hendrerit enim. In semper sit amet neque et lacinia. Donec eleifend mi vel nunc vestibulum lobortis sed sed leo.</p>
       </div>
     </article>
     <article>
-      <div class="bio-photo"><img src="https://ca.slack-edge.com/T6LF4KTLP-U8N3PK5DL-fcc56d2e2892-72" alt="Sergio" /></div>
+      <div class="bio-photo"><img src="./assets/img/team-sergio.jpg" /></div>
       <div class="bio-description">
         <header>
           <h3>Sergio</h3>
-          <h4>Co-Founder, lead of frontend development</h4>
+          <h4>Position</h4>
         </header>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vestibulum eros nec magna consequat, vel vehicula diam bibendum. Sed sed hendrerit enim. In semper sit amet neque et lacinia. Donec eleifend mi vel nunc vestibulum lobortis sed sed leo. Mauris facilisis, urna at consequat hendrerit, turpis mauris faucibus massa, et finibus purus mauris sed leo. In hac habitasse platea dictumst. Donec vulputate gravida est, a maximus justo porta gravida. Phasellus bibendum massa felis, eu condimentum lorem iaculis vitae. Phasellus sed purus rutrum, viverra augue nec, rutrum lacus. Pellentesque viverra, sapien ullamcorper venenatis pellentesque, ex lorem consequat tellus, a commodo augue lacus sit amet urna.</p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vestibulum eros nec magna consequat, vel vehicula diam bibendum. Sed sed hendrerit enim. In semper sit amet neque et lacinia. Donec eleifend mi vel nunc vestibulum lobortis sed sed leo.</p>
       </div>
     </article>
     <article>
-      <div class="bio-photo"><img src="https://ca.slack-edge.com/T6LF4KTLP-U8N3PK5DL-fcc56d2e2892-72" alt="Sergio" /></div>
+      <div class="bio-photo"><img src="./assets/img/team-andrew.jpg" /></div>
       <div class="bio-description">
         <header>
-          <h3>Sergio</h3>
-          <h4>Co-Founder, lead of frontend development</h4>
+          <h3>Andrew</h3>
+          <h4>Position</h4>
         </header>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vestibulum eros nec magna consequat, vel vehicula diam bibendum. Sed sed hendrerit enim. In semper sit amet neque et lacinia. Donec eleifend mi vel nunc vestibulum lobortis sed sed leo. Mauris facilisis, urna at consequat hendrerit, turpis mauris faucibus massa, et finibus purus mauris sed leo. In hac habitasse platea dictumst. Donec vulputate gravida est, a maximus justo porta gravida. Phasellus bibendum massa felis, eu condimentum lorem iaculis vitae. Phasellus sed purus rutrum, viverra augue nec, rutrum lacus. Pellentesque viverra, sapien ullamcorper venenatis pellentesque, ex lorem consequat tellus, a commodo augue lacus sit amet urna.</p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vestibulum eros nec magna consequat, vel vehicula diam bibendum. Sed sed hendrerit enim. In semper sit amet neque et lacinia. Donec eleifend mi vel nunc vestibulum lobortis sed sed leo.</p>
       </div>
     </article>
     <article class="join-cta">
