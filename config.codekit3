@@ -9,11 +9,177 @@
 	],
 "creatorBuild": "26680",
 "files": {
+	"\/.gitignore": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/.gitignore",
+		"oF": 0
+		},
+	"\/.htaccess": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/.htaccess",
+		"oF": 0
+		},
+	"\/landing-page\/assets\/scripts\/app.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/public\/assets\/js\/app-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/landing-page\/assets\/styles\/styles.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/public\/assets\/css\/styles.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/landing-page\/public\/assets\/css\/styles.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/landing-page\/public\/assets\/css\/styles-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/landing-page\/public\/assets\/font\/ProximaNovaBold.eot": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/landing-page\/public\/assets\/font\/ProximaNovaBold.eot",
+		"oF": 0
+		},
+	"\/landing-page\/public\/assets\/font\/ProximaNovaBold.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/landing-page\/public\/assets\/font\/ProximaNovaBold.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/landing-page\/public\/assets\/font\/ProximaNovaBold.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/landing-page\/public\/assets\/font\/ProximaNovaBold.ttf",
+		"oF": 0
+		},
+	"\/landing-page\/public\/assets\/font\/ProximaNovaBold.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/landing-page\/public\/assets\/font\/ProximaNovaBold.woff",
+		"oF": 0
+		},
+	"\/landing-page\/public\/assets\/font\/ProximaNovaBold.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/landing-page\/public\/assets\/font\/ProximaNovaBold.woff2",
+		"oF": 0
+		},
+	"\/landing-page\/public\/assets\/font\/ProximaNovaRegular.eot": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/landing-page\/public\/assets\/font\/ProximaNovaRegular.eot",
+		"oF": 0
+		},
+	"\/landing-page\/public\/assets\/font\/ProximaNovaRegular.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/landing-page\/public\/assets\/font\/ProximaNovaRegular.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/landing-page\/public\/assets\/font\/ProximaNovaRegular.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/landing-page\/public\/assets\/font\/ProximaNovaRegular.ttf",
+		"oF": 0
+		},
+	"\/landing-page\/public\/assets\/font\/ProximaNovaRegular.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/landing-page\/public\/assets\/font\/ProximaNovaRegular.woff",
+		"oF": 0
+		},
+	"\/landing-page\/public\/assets\/img\/logo.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/landing-page\/public\/assets\/img\/logo.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/landing-page\/public\/favicon.png": {
+		"ft": 32768,
+		"iS": 4604,
+		"oA": 0,
+		"oAP": "\/landing-page\/public\/favicon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/landing-page\/public\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/landing-page\/public\/index.html",
+		"oF": 0
+		},
+	"\/landing-page\/public\/jobs.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/landing-page\/public\/jobs.html",
+		"oF": 0
+		},
+	"\/landing-page\/public\/releases.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/landing-page\/public\/releases-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
 	"\/public\/.htaccess": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/public\/.htaccess",
+		"oF": 0
+		},
+	"\/public\/404.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/public\/404.php",
 		"oF": 0
 		},
 	"\/public\/assets\/css\/main.css": {
@@ -416,12 +582,437 @@
 		"oAP": "\/public\/marketplace.php",
 		"oF": 0
 		},
+	"\/public\/releases.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/public\/releases-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/public\/src\/Mandrill.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/public\/src\/Mandrill.php",
+		"oF": 0
+		},
+	"\/public\/src\/Mandrill\/Exceptions.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/public\/src\/Mandrill\/Exceptions.php",
+		"oF": 0
+		},
+	"\/public\/src\/Mandrill\/Exports.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/public\/src\/Mandrill\/Exports.php",
+		"oF": 0
+		},
+	"\/public\/src\/Mandrill\/Inbound.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/public\/src\/Mandrill\/Inbound.php",
+		"oF": 0
+		},
+	"\/public\/src\/Mandrill\/Internal.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/public\/src\/Mandrill\/Internal.php",
+		"oF": 0
+		},
+	"\/public\/src\/Mandrill\/Ips.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/public\/src\/Mandrill\/Ips.php",
+		"oF": 0
+		},
+	"\/public\/src\/Mandrill\/Messages.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/public\/src\/Mandrill\/Messages.php",
+		"oF": 0
+		},
+	"\/public\/src\/Mandrill\/Metadata.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/public\/src\/Mandrill\/Metadata.php",
+		"oF": 0
+		},
+	"\/public\/src\/Mandrill\/Rejects.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/public\/src\/Mandrill\/Rejects.php",
+		"oF": 0
+		},
+	"\/public\/src\/Mandrill\/Senders.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/public\/src\/Mandrill\/Senders.php",
+		"oF": 0
+		},
+	"\/public\/src\/Mandrill\/Subaccounts.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/public\/src\/Mandrill\/Subaccounts.php",
+		"oF": 0
+		},
+	"\/public\/src\/Mandrill\/Tags.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/public\/src\/Mandrill\/Tags.php",
+		"oF": 0
+		},
+	"\/public\/src\/Mandrill\/Templates.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/public\/src\/Mandrill\/Templates.php",
+		"oF": 0
+		},
+	"\/public\/src\/Mandrill\/Urls.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/public\/src\/Mandrill\/Urls.php",
+		"oF": 0
+		},
+	"\/public\/src\/Mandrill\/Users.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/public\/src\/Mandrill\/Users.php",
+		"oF": 0
+		},
+	"\/public\/src\/Mandrill\/Webhooks.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/public\/src\/Mandrill\/Webhooks.php",
+		"oF": 0
+		},
+	"\/public\/src\/Mandrill\/Whitelists.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/public\/src\/Mandrill\/Whitelists.php",
+		"oF": 0
+		},
 	"\/public\/team.php": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/public\/team.php",
 		"oF": 0
+		},
+	"\/README.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/README.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/src\/scripts\/dep\/jquery.validate.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/public\/assets\/js\/jquery.validate.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/src\/scripts\/main.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/public\/assets\/js\/main-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/src\/styles\/_vars.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/public\/assets\/css\/_vars.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/src\/styles\/components\/_fonts.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/public\/assets\/css\/_fonts.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/src\/styles\/components\/_icons.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/public\/assets\/css\/_icons.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/src\/styles\/elements\/_assets.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/public\/assets\/css\/_assets.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/src\/styles\/elements\/_buttons.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/public\/assets\/css\/_buttons.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/src\/styles\/elements\/_footer.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/public\/assets\/css\/_footer.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/src\/styles\/elements\/_global.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/public\/assets\/css\/_global.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/src\/styles\/elements\/_header.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/public\/assets\/css\/_header.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/src\/styles\/elements\/_input.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/public\/assets\/css\/_input.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/src\/styles\/elements\/_typography.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/public\/assets\/css\/_typography.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/src\/styles\/elements\/_wrapper.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/public\/assets\/css\/_wrapper.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/src\/styles\/extras\/_reset.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/public\/assets\/css\/_reset.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/src\/styles\/main.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/public\/assets\/css\/main.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/src\/styles\/pages\/_careers.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/public\/assets\/css\/_careers.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/src\/styles\/pages\/_downloads.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/public\/assets\/css\/_downloads.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/src\/styles\/pages\/_enterprise.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/public\/assets\/css\/_enterprise.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/src\/styles\/pages\/_error.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/public\/assets\/css\/_error.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/src\/styles\/pages\/_homepage.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/public\/assets\/css\/_homepage.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/src\/styles\/pages\/_marketplace.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/public\/assets\/css\/_marketplace.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/src\/styles\/pages\/_team.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/public\/assets\/css\/_team.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
 		}
 	},
 "hooks": [
@@ -430,7 +1021,7 @@
 	},
 "projectAttributes": {
 	"creationDate": 540353880,
-	"displayValue": "spectero-landing",
+	"displayValue": "spectero-website",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-cryingJordan",
 	"iconImageWasSetByUser": 0

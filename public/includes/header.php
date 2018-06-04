@@ -14,7 +14,7 @@
       gtag('config', 'UA-107277606-1');
     </script>
   </head>
-  <body>
+  <body<?php echo (isset($body_class)) ? ' class="'.$body_class.'"' : '' ?>>
     <header id="header-main">
       <div class="wrapper">
         <div class="header-top">
