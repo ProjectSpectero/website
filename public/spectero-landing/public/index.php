@@ -25,7 +25,7 @@ include ('./includes/header.php');
         </header>
         <div class="info">
           <p>Utilizing a variety of VPN technologies such as OpenVPN, SSH and HAProxy our open source VPN server is an easy to use way of creating and maintaining your own VPN. Whether you're just looking to run a small home VPN connection or host a large enterprise proxy solution our powerful software is optimized for use cases large and small.</p>
-          <!-- <a href="#" class="learn-more">Learn More</a> -->
+          <a href="./downloads" class="learn-more">Learn More</a>
         </div>
       </article>
     </div>
@@ -40,7 +40,7 @@ include ('./includes/header.php');
         </header>
         <div class="info">
           <p>Offering powerful management capabilities our cloud panel enables for easy remote configuration of your daemon instance. Adding/removing users, modifying proxy servers, downloading configurations and running commands in bulk on groups of servers can be done with just a few clicks.</p>
-          <!-- <a href="#" class="learn-more">Learn More</a> -->
+          <a href="./marketplace" class="learn-more">Learn More</a>
         </div>
       </article>
     </div>
@@ -55,7 +55,7 @@ include ('./includes/header.php');
         </header>
         <div class="info">
           <p>Our marketplace is the first of it's kind in the VPN space. We offer robust search capabilities to easily find VPN servers in specific networks/countries along with multiple payment gateways for fast payment and setup. Tight integration with our enterprise customerbase means you can profit from daemon deployments at any scale.</p>
-          <!-- <a href="#" class="learn-more">Learn More</a> -->
+          <a href="./marketplace" class="learn-more">Learn More</a>
         </div>
       </article>
     </div>
@@ -70,7 +70,7 @@ include ('./includes/header.php');
         </header>
         <div class="info">
           <p>Private Proxies by Spectero Enterprise provide over 100 GB/s of network throughput to customers all over the globe. Automatic IP rotation and dedicated proxy servers provide a private, secure and lightning fast experience. Contact us today and see why businesses around the globe trust us to help extract essential business intelligence data.</p>
-          <!-- <a href="#" class="learn-more">Learn More</a> -->
+          <a href="./enterprise" class="learn-more">Learn More</a>
         </div>
       </article>
     </div>
