@@ -1,10 +1,10 @@
 <?php
 
 // Config
-$mandrill_key = '1FkcK9CXRITZqEIyZFj_Xg';
+$mandrill_key = 'fsX5DZMmdP4pcALmPB2L4A';
 
-$sender_email		= 'sales@proxycrate.com';
-$reciever_email		= 'robert@proxycrate.com';
+$sender_email		= 'noreply@spectero.com';
+$reciever_email		= 'robert@spectero.com';
 
 function error( $msg='' ) {
 	if ( empty($msg) ) { $msg = 'There was a problem submitting your request. Please try again later.'; }
