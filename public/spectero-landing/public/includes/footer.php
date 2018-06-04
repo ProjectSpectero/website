@@ -10,7 +10,7 @@
               <a href="https://discord.gg/CWn66H4" target="_blank"><span class="icon-discord"></span></a>
               <a href="https://twitter.com/specterovpn" target="_blank"><span class="icon-twitter"></span></a>
               <a href="https://github.com/ProjectSpectero/" target="_blank"><span class="icon-github"></span></a>
-              <a href="mailto:noc@spectero.com"><span class="icon-mailru"></span></a>
+              <a href="mailto:noc@spectero.com"><span class="icon-email"></span></a>
             </div>
           </div>
           <div class="company-info">

@@ -33,37 +33,6 @@
 		"oF": 0,
 		"oS": 3
 		},
-	"\/public\/assets\/fonts\/feather.eot": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/public\/assets\/fonts\/feather.eot",
-		"oF": 0
-		},
-	"\/public\/assets\/fonts\/feather.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/public\/assets\/fonts\/feather.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/public\/assets\/fonts\/feather.ttf": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/public\/assets\/fonts\/feather.ttf",
-		"oF": 0
-		},
-	"\/public\/assets\/fonts\/feather.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/public\/assets\/fonts\/feather.woff",
-		"oF": 0
-		},
 	"\/public\/assets\/fonts\/proximanova-bold-webfont.eot": {
 		"cB": 0,
 		"ft": 8192,
@@ -157,44 +126,45 @@
 		"oAP": "\/public\/assets\/fonts\/proximanova-semibold-webfont.woff",
 		"oF": 0
 		},
-	"\/public\/assets\/icons\/social-selection.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "\/public\/assets\/icons\/social-selection-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
-	"\/public\/assets\/icons\/social.eot": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/public\/assets\/icons\/social.eot",
-		"oF": 0
-		},
-	"\/public\/assets\/icons\/social.svg": {
+	"\/public\/assets\/icons\/icon-discord.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/public\/assets\/icons\/social.svg",
+		"oAP": "\/public\/assets\/icons\/icon-discord.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/public\/assets\/icons\/social.ttf": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/public\/assets\/icons\/social.ttf",
-		"oF": 0
+	"\/public\/assets\/icons\/icon-email.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/public\/assets\/icons\/icon-email.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
 		},
-	"\/public\/assets\/icons\/social.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/public\/assets\/icons\/social.woff",
-		"oF": 0
+	"\/public\/assets\/icons\/icon-github.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/public\/assets\/icons\/icon-github.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/public\/assets\/icons\/icon-twitter.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/public\/assets\/icons\/icon-twitter.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
 		},
 	"\/public\/assets\/img\/checkmark.png": {
 		"ft": 32768,
