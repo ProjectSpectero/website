@@ -16,11 +16,11 @@ include ('./includes/header.php');
       <h5>Step 1</h5>
       <div class="os-instruction windows show">
         <p>Download the latest release of the Spectero Daemon and its CLI, then run it.</p>
-        <a class="button button-info" :href="#" target="_blank">Download Now</a>
+        <a class="button button-info" :href="https://git.io/vhcW8" target="_blank">Download Now</a>
       </div>
       <div class="os-instruction linux mac">
         <p>Download and run the latest release of the Spectero Daemon and its CLI by running the following command:</p>
-        <p class="cmd">wget -q -O - ########### | bash</p>
+        <p class="cmd">wget -q -O - https://git.io/vhcWR | bash</p>
       </div>
     </section>
     <section class="section padded">
