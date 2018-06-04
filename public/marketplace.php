@@ -48,7 +48,7 @@ include ('./includes/header.php');
             <h3>Global Marketplace</h3>
           </header>
           <div class="info">
-            <p>Our marketplace is the first of it's kind in the VPN space. We offer robust search capabilities to easily find VPN servers in specific networks/countries along with multiple payment gateways for fast payment and setup. Tight integration with our enterprise customerbase means you can profit from daemon deployments at any scale.</p>
+            <p>Our marketplace is the first of its kind in the VPN space. We offer robust search capabilities to easily find VPN servers in specific networks/countries along with multiple payment gateways for fast payment and setup. Tight integration with our enterprise customerbase means you can profit from daemon deployments at any scale.</p>
             <!--<a href="#" class="learn-more">Learn More</a>-->
           </div>
         </article>
