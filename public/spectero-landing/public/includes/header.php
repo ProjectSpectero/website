@@ -23,7 +23,7 @@
             <div class="navs">
               <nav class="header-nav-main">
                 <ul>
-                  <li><a href="./downloads">Downloads</a></li>
+                  <!-- <li><a href="./downloads">Downloads</a></li> -->
                   <li><a href="./marketplace">Marketplace</a></li>
                   <li><a href="./enterprise">Enterprise</a></li>
                 </ul>

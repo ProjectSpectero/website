@@ -20,7 +20,7 @@
               <p>(206) 483-2177</p>
             </div>
             <div class="legal">
-              <a href="./team">Our Team</a>
+              <!-- <a href="./team">Our Team</a> -->
               <a href="./careers">Careers</a>
             </div>
           </div>

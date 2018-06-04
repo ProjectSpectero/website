@@ -25,7 +25,7 @@ include ('./includes/header.php');
         </header>
         <div class="info">
           <p>Utilizing a variety of VPN technologies such as OpenVPN, SSH and HAProxy our open source VPN server is an easy to use way of creating and maintaining your own VPN. Whether you're just looking to run a small home VPN connection or host a large enterprise proxy solution our powerful software is optimized for use cases large and small.</p>
-          <a href="./downloads" class="learn-more">Learn More</a>
+          <!-- <a href="./downloads" class="learn-more">Learn More</a> -->
         </div>
       </article>
     </div>
