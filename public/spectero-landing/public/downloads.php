@@ -34,34 +34,6 @@ include ('./includes/header.php');
       <p>Once you've connected the daemon to Spectero Cloud, visit our nodes management view to complete the setup process.</p>
       <a href="https://app.spectero.com/nodes" target="_blank" class="button">Complete Setup</a>
     </section>
-    <!-- <section v-if="matrices" class="section padded">
-      <h5>Compatibility</h5>
-      <p>The Spectero Daemon is currently compatible with the following {{ osTab}} {{ osTab === 'Linux' ? 'distributions' : 'versions' }}:</p>
-      <div class="compatibility">
-        <div v-for="(matrix, i) in matrices" :key="i">
-          <div v-if="i === osTab" class="matrices-section">
-            <div class="matrices">
-              <div class="matrix" v-for="(os, j) in matrix" :key="j">
-                <template v-if="os.Distributions">
-                  <h6 class="title-distro">{{ j }}</h6>
-                  <div v-for="(distro, k) in os.Distributions" :key="k" class="os-item">
-                    <p>{{ k }}</p>
-                    <span v-if="distro.tested !== undefined" class="compatibility-icon" :class="{ 'compatible': distro.tested === true }"><p>{{ (distro.tested === true) ? 'Tested' : 'Untested' }}</p></span>
-                  </div>
-                </template>
-
-                <template v-else>
-                  <div class="os-item">
-                    <p>{{ j }}</p>
-                    <span v-if="os.tested !== undefined" class="compatibility-icon" :class="{ 'compatible': os.tested === true }"><p>{{ (os.tested === true) ? 'Tested' : 'Untested' }}</p></span>
-                  </div>
-                </template>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section> -->
   </div>
 </section>
 <?php include ('./includes/footer.php'); ?>
