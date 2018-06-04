@@ -26,8 +26,6 @@
                   <li><a href="./downloads">Downloads</a></li>
                   <li><a href="./marketplace">Marketplace</a></li>
                   <li><a href="./enterprise">Enterprise</a></li>
-                  <li><a href="./team">Team</a></li>
-                  <li><a href="./careers">Careers</a></li>
                 </ul>
               </nav>
               <nav class="header-nav-account">
