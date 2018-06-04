@@ -4,119 +4,192 @@
 	{
 		"name": "Process All Remaining Files and Folders",
 		"stepType": 1,
-		"uuidString": "4D093B69-DACC-4A2D-8124-2B93ECC22356"
+		"uuidString": "1D3543B9-4FDB-4987-9765-272FA53AEA65"
 		}
 	],
 "creatorBuild": "26680",
 "files": {
-	"\/.htaccess": {
+	"\/public\/.htaccess": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/.htaccess",
+		"oA": 0,
+		"oAP": "\/public\/.htaccess",
 		"oF": 0
 		},
-	"\/assets\/scripts\/app.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/assets\/scripts\/app-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"\/assets\/styles\/styles.scss": {
-		"aP": 1,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/public\/assets\/css\/styles.css",
-		"oF": 2,
-		"oS": 3,
-		"uL": 1
-		},
-	"\/public\/assets\/css\/styles.css": {
+	"\/public\/assets\/css\/main.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/public\/assets\/css\/styles-min.css",
+		"oAP": "\/public\/assets\/css\/main-min.css",
 		"oF": 0,
 		"oS": 3
 		},
-	"\/public\/assets\/font\/ProximaNovaBold.eot": {
+	"\/public\/assets\/fonts\/proximanova-bold-webfont.eot": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/public\/assets\/font\/ProximaNovaBold.eot",
+		"oA": 0,
+		"oAP": "\/public\/assets\/fonts\/proximanova-bold-webfont.eot",
 		"oF": 0
 		},
-	"\/public\/assets\/font\/ProximaNovaBold.svg": {
+	"\/public\/assets\/fonts\/proximanova-bold-webfont.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/public\/assets\/font\/ProximaNovaBold.svg",
+		"oAP": "\/public\/assets\/fonts\/proximanova-bold-webfont.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/public\/assets\/font\/ProximaNovaBold.ttf": {
+	"\/public\/assets\/fonts\/proximanova-bold-webfont.ttf": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/public\/assets\/font\/ProximaNovaBold.ttf",
+		"oA": 0,
+		"oAP": "\/public\/assets\/fonts\/proximanova-bold-webfont.ttf",
 		"oF": 0
 		},
-	"\/public\/assets\/font\/ProximaNovaBold.woff": {
+	"\/public\/assets\/fonts\/proximanova-bold-webfont.woff": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/public\/assets\/font\/ProximaNovaBold.woff",
+		"oA": 0,
+		"oAP": "\/public\/assets\/fonts\/proximanova-bold-webfont.woff",
 		"oF": 0
 		},
-	"\/public\/assets\/font\/ProximaNovaBold.woff2": {
+	"\/public\/assets\/fonts\/proximanova-regular-webfont.eot": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/public\/assets\/font\/ProximaNovaBold.woff2",
+		"oA": 0,
+		"oAP": "\/public\/assets\/fonts\/proximanova-regular-webfont.eot",
 		"oF": 0
 		},
-	"\/public\/assets\/font\/ProximaNovaRegular.eot": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/public\/assets\/font\/ProximaNovaRegular.eot",
-		"oF": 0
-		},
-	"\/public\/assets\/font\/ProximaNovaRegular.svg": {
+	"\/public\/assets\/fonts\/proximanova-regular-webfont.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/public\/assets\/font\/ProximaNovaRegular.svg",
+		"oAP": "\/public\/assets\/fonts\/proximanova-regular-webfont.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/public\/assets\/font\/ProximaNovaRegular.ttf": {
+	"\/public\/assets\/fonts\/proximanova-regular-webfont.ttf": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/public\/assets\/font\/ProximaNovaRegular.ttf",
+		"oA": 0,
+		"oAP": "\/public\/assets\/fonts\/proximanova-regular-webfont.ttf",
 		"oF": 0
 		},
-	"\/public\/assets\/font\/ProximaNovaRegular.woff": {
+	"\/public\/assets\/fonts\/proximanova-regular-webfont.woff": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/public\/assets\/font\/ProximaNovaRegular.woff",
+		"oA": 0,
+		"oAP": "\/public\/assets\/fonts\/proximanova-regular-webfont.woff",
 		"oF": 0
+		},
+	"\/public\/assets\/fonts\/proximanova-semibold-webfont.eot": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/public\/assets\/fonts\/proximanova-semibold-webfont.eot",
+		"oF": 0
+		},
+	"\/public\/assets\/fonts\/proximanova-semibold-webfont.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/public\/assets\/fonts\/proximanova-semibold-webfont.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/public\/assets\/fonts\/proximanova-semibold-webfont.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/public\/assets\/fonts\/proximanova-semibold-webfont.ttf",
+		"oF": 0
+		},
+	"\/public\/assets\/fonts\/proximanova-semibold-webfont.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/public\/assets\/fonts\/proximanova-semibold-webfont.woff",
+		"oF": 0
+		},
+	"\/public\/assets\/icons\/icon-discord.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/public\/assets\/icons\/icon-discord.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/public\/assets\/icons\/icon-email.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/public\/assets\/icons\/icon-email.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/public\/assets\/icons\/icon-github.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/public\/assets\/icons\/icon-github.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/public\/assets\/icons\/icon-twitter.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/public\/assets\/icons\/icon-twitter.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/public\/assets\/img\/checkmark.png": {
+		"ft": 32768,
+		"iS": 9929,
+		"oA": 0,
+		"oAP": "\/public\/assets\/img\/checkmark.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/public\/assets\/img\/dropdown.png": {
+		"ft": 32768,
+		"iS": 640,
+		"oA": 0,
+		"oAP": "\/public\/assets\/img\/dropdown.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/public\/assets\/img\/logo-dark.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/public\/assets\/img\/logo-dark.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
 		},
 	"\/public\/assets\/img\/logo.svg": {
 		"ft": 2097152,
@@ -128,395 +201,227 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/public\/favicon.png": {
+	"\/public\/assets\/img\/managed-diagram-mini.png": {
 		"ft": 32768,
-		"iS": 12456,
+		"iS": 21022,
 		"oA": 0,
-		"oAP": "\/public\/favicon.png",
+		"oAP": "\/public\/assets\/img\/managed-diagram-mini.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/public\/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/public\/index.html",
-		"oF": 0
-		},
-	"\/public\/jobs.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/public\/jobs.html",
-		"oF": 0
-		},
-	"\/public\/releases.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "\/public\/releases-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
-	"\/public\/spectero-landing\/assets\/css\/main.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/public\/spectero-landing\/assets\/css\/main-min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/public\/spectero-landing\/assets\/fonts\/feather.eot": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/public\/spectero-landing\/assets\/fonts\/feather.eot",
-		"oF": 0
-		},
-	"\/public\/spectero-landing\/assets\/fonts\/feather.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/public\/spectero-landing\/assets\/fonts\/feather.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/public\/spectero-landing\/assets\/fonts\/feather.ttf": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/public\/spectero-landing\/assets\/fonts\/feather.ttf",
-		"oF": 0
-		},
-	"\/public\/spectero-landing\/assets\/fonts\/feather.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/public\/spectero-landing\/assets\/fonts\/feather.woff",
-		"oF": 0
-		},
-	"\/public\/spectero-landing\/assets\/fonts\/proximanova-bold-webfont.eot": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/public\/spectero-landing\/assets\/fonts\/proximanova-bold-webfont.eot",
-		"oF": 0
-		},
-	"\/public\/spectero-landing\/assets\/fonts\/proximanova-bold-webfont.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/public\/spectero-landing\/assets\/fonts\/proximanova-bold-webfont.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/public\/spectero-landing\/assets\/fonts\/proximanova-bold-webfont.ttf": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/public\/spectero-landing\/assets\/fonts\/proximanova-bold-webfont.ttf",
-		"oF": 0
-		},
-	"\/public\/spectero-landing\/assets\/fonts\/proximanova-bold-webfont.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/public\/spectero-landing\/assets\/fonts\/proximanova-bold-webfont.woff",
-		"oF": 0
-		},
-	"\/public\/spectero-landing\/assets\/fonts\/proximanova-regular-webfont.eot": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/public\/spectero-landing\/assets\/fonts\/proximanova-regular-webfont.eot",
-		"oF": 0
-		},
-	"\/public\/spectero-landing\/assets\/fonts\/proximanova-regular-webfont.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/public\/spectero-landing\/assets\/fonts\/proximanova-regular-webfont.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/public\/spectero-landing\/assets\/fonts\/proximanova-regular-webfont.ttf": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/public\/spectero-landing\/assets\/fonts\/proximanova-regular-webfont.ttf",
-		"oF": 0
-		},
-	"\/public\/spectero-landing\/assets\/fonts\/proximanova-regular-webfont.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/public\/spectero-landing\/assets\/fonts\/proximanova-regular-webfont.woff",
-		"oF": 0
-		},
-	"\/public\/spectero-landing\/assets\/fonts\/proximanova-semibold-webfont.eot": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/public\/spectero-landing\/assets\/fonts\/proximanova-semibold-webfont.eot",
-		"oF": 0
-		},
-	"\/public\/spectero-landing\/assets\/fonts\/proximanova-semibold-webfont.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/public\/spectero-landing\/assets\/fonts\/proximanova-semibold-webfont.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/public\/spectero-landing\/assets\/fonts\/proximanova-semibold-webfont.ttf": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/public\/spectero-landing\/assets\/fonts\/proximanova-semibold-webfont.ttf",
-		"oF": 0
-		},
-	"\/public\/spectero-landing\/assets\/fonts\/proximanova-semibold-webfont.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/public\/spectero-landing\/assets\/fonts\/proximanova-semibold-webfont.woff",
-		"oF": 0
-		},
-	"\/public\/spectero-landing\/assets\/img\/logo-dark.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/public\/spectero-landing\/assets\/img\/logo-dark.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/public\/spectero-landing\/assets\/img\/logo.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/public\/spectero-landing\/assets\/img\/logo.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/public\/spectero-landing\/assets\/img\/screenshot-marketplace.png": {
+	"\/public\/assets\/img\/managed-diagram.png": {
 		"ft": 32768,
-		"iS": 112720,
+		"iS": 20309,
 		"oA": 0,
-		"oAP": "\/public\/spectero-landing\/assets\/img\/screenshot-marketplace.png",
+		"oAP": "\/public\/assets\/img\/managed-diagram.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/public\/assets\/img\/menu.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/public\/assets\/img\/menu.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/public\/assets\/img\/screenshot-daemon.png": {
+		"ft": 32768,
+		"iS": 986319,
+		"oA": 0,
+		"oAP": "\/public\/assets\/img\/screenshot-daemon.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/public\/assets\/img\/screenshot-market-cropped.png": {
+		"ft": 32768,
+		"iS": 230195,
+		"oA": 0,
+		"oAP": "\/public\/assets\/img\/screenshot-market-cropped.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/public\/spectero-landing\/assets\/styles\/_vars.scss": {
-		"aP": 1,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/public\/spectero-landing\/assets\/styles\/_vars.css",
-		"oF": 0,
-		"oS": 3,
-		"uL": 1
-		},
-	"\/public\/spectero-landing\/assets\/styles\/components\/_fonts.scss": {
-		"aP": 1,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/public\/spectero-landing\/assets\/styles\/components\/_fonts.css",
-		"oF": 0,
-		"oS": 3,
-		"uL": 1
-		},
-	"\/public\/spectero-landing\/assets\/styles\/elements\/_assets.scss": {
-		"aP": 1,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/public\/spectero-landing\/assets\/styles\/elements\/_assets.css",
-		"oF": 0,
-		"oS": 3,
-		"uL": 1
-		},
-	"\/public\/spectero-landing\/assets\/styles\/elements\/_buttons.scss": {
-		"aP": 1,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/public\/spectero-landing\/assets\/styles\/elements\/_buttons.css",
-		"oF": 0,
-		"oS": 3,
-		"uL": 1
-		},
-	"\/public\/spectero-landing\/assets\/styles\/elements\/_footer.scss": {
-		"aP": 1,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/public\/spectero-landing\/assets\/styles\/elements\/_footer.css",
-		"oF": 0,
-		"oS": 3,
-		"uL": 1
-		},
-	"\/public\/spectero-landing\/assets\/styles\/elements\/_global.scss": {
-		"aP": 1,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/public\/spectero-landing\/assets\/styles\/elements\/_global.css",
-		"oF": 0,
-		"oS": 3,
-		"uL": 1
-		},
-	"\/public\/spectero-landing\/assets\/styles\/elements\/_header.scss": {
-		"aP": 1,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/public\/spectero-landing\/assets\/styles\/elements\/_header.css",
-		"oF": 0,
-		"oS": 3,
-		"uL": 1
-		},
-	"\/public\/spectero-landing\/assets\/styles\/elements\/_typography.scss": {
-		"aP": 1,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/public\/spectero-landing\/assets\/styles\/elements\/_typography.css",
-		"oF": 0,
-		"oS": 3,
-		"uL": 1
-		},
-	"\/public\/spectero-landing\/assets\/styles\/elements\/_wrapper.scss": {
-		"aP": 1,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/public\/spectero-landing\/assets\/styles\/elements\/_wrapper.css",
-		"oF": 0,
-		"oS": 3,
-		"uL": 1
-		},
-	"\/public\/spectero-landing\/assets\/styles\/extras\/_reset.scss": {
-		"aP": 1,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/public\/spectero-landing\/assets\/styles\/extras\/_reset.css",
-		"oF": 0,
-		"oS": 3,
-		"uL": 1
-		},
-	"\/public\/spectero-landing\/assets\/styles\/main.scss": {
-		"aP": 1,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
+	"\/public\/assets\/img\/screenshot-market.png": {
+		"ft": 32768,
+		"iS": 323230,
 		"oA": 0,
-		"oAP": "\/public\/spectero-landing\/assets\/styles\/main.css",
+		"oAP": "\/public\/assets\/img\/screenshot-market.png",
 		"oF": 0,
-		"oS": 3,
-		"uL": 1
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
-	"\/public\/spectero-landing\/assets\/styles\/pages\/_homepage.scss": {
-		"aP": 1,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
+	"\/public\/assets\/img\/screenshot-panel.png": {
+		"ft": 32768,
+		"iS": 177411,
+		"oA": 0,
+		"oAP": "\/public\/assets\/img\/screenshot-panel.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/public\/assets\/img\/team-anatolie.jpg": {
+		"ft": 16384,
+		"iS": 63987,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/public\/assets\/img\/team-anatolie.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/public\/assets\/img\/team-andrew.jpg": {
+		"ft": 16384,
+		"iS": 52761,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/public\/assets\/img\/team-andrew.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/public\/assets\/img\/team-paul.jpg": {
+		"ft": 16384,
+		"iS": 43417,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/public\/assets\/img\/team-paul.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/public\/assets\/img\/team-robert.jpg": {
+		"ft": 16384,
+		"iS": 37713,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/public\/assets\/img\/team-robert.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/public\/assets\/img\/team-sergio.jpg": {
+		"ft": 16384,
+		"iS": 42782,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/public\/assets\/img\/team-sergio.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/public\/assets\/js\/main-min.js": {
+		"ft": 64,
 		"ma": 0,
-		"oA": 1,
-		"oAP": "\/public\/spectero-landing\/assets\/styles\/pages\/_homepage.css",
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/public\/assets\/js\/main-min-min.js",
 		"oF": 0,
-		"oS": 3,
-		"uL": 1
+		"sC": 3,
+		"tS": 0
 		},
-	"\/public\/spectero-landing\/favicon.png": {
+	"\/public\/careers.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/public\/careers.php",
+		"oF": 0
+		},
+	"\/public\/contact.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/public\/contact.php",
+		"oF": 0
+		},
+	"\/public\/downloads.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/public\/downloads.php",
+		"oF": 0
+		},
+	"\/public\/enterprise.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/public\/enterprise.php",
+		"oF": 0
+		},
+	"\/public\/favicon.png": {
 		"ft": 32768,
 		"iS": 16952,
 		"oA": 0,
-		"oAP": "\/public\/spectero-landing\/favicon.png",
+		"oAP": "\/public\/favicon.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/public\/spectero-landing\/index.html": {
+	"\/public\/includes\/footer.php": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/public\/spectero-landing\/index.html",
+		"oA": 0,
+		"oAP": "\/public\/includes\/footer.php",
 		"oF": 0
 		},
-	"\/README.md": {
+	"\/public\/includes\/header.php": {
 		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
+		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/README.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
+		"oAP": "\/public\/includes\/header.php",
+		"oF": 0
+		},
+	"\/public\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/public\/index.php",
+		"oF": 0
+		},
+	"\/public\/jobs.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/public\/jobs.php",
+		"oF": 0
+		},
+	"\/public\/marketplace.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/public\/marketplace.php",
+		"oF": 0
+		},
+	"\/public\/team.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/public\/team.php",
+		"oF": 0
 		}
 	},
 "hooks": [
@@ -524,10 +429,10 @@
 "manualImportLinks": {
 	},
 "projectAttributes": {
-	"creationDate": 527803983,
-	"displayValue": "spectero-website",
+	"creationDate": 540353880,
+	"displayValue": "spectero-landing",
 	"displayValueWasSetByUser": 0,
-	"iconImageName": "meme-confusedBaby",
+	"iconImageName": "meme-cryingJordan",
 	"iconImageWasSetByUser": 0
 	},
 "projectSettings": {
@@ -943,7 +848,7 @@
 			},
 		"array-callback-return": {
 			"active": 0,
-			"optionString": ""
+			"optionString": "{'allowImplicit': false}"
 			},
 		"array-element-newline": {
 			"active": 0,
@@ -1107,7 +1012,7 @@
 			},
 		"indent": {
 			"active": 0,
-			"optionString": "4, {'SwitchCase': 0, 'VariableDeclarator': 1, 'outerIIFEBody': 1, }"
+			"optionString": "4, {'SwitchCase': 0, 'VariableDeclarator': 1, 'outerIIFEBody': 1 }"
 			},
 		"init-declarations": {
 			"active": 0,
@@ -2337,10 +2242,10 @@
 	"languageDefaultsJS": {
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*-min.js",
-		"autoOutputPathRelativePath": "\/min",
+		"autoOutputPathRelativePath": ".\/public\/assets\/js",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 0,
+		"autoOutputPathStyle": 1,
 		"createSourceMap": 0,
 		"minifyOutput": 1,
 		"syntaxCheckerStyle": 3,
@@ -2405,7 +2310,7 @@
 		"useCompatibilityMode": 0
 		},
 	"languageDefaultsOTHER": {
-		"autoOutputAction": 2,
+		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.*",
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
@@ -2437,10 +2342,10 @@
 	"languageDefaultsSASS": {
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.css",
-		"autoOutputPathRelativePath": "..\/css",
+		"autoOutputPathRelativePath": ".\/public\/assets\/css",
 		"autoOutputPathReplace1": "sass",
 		"autoOutputPathReplace2": "css",
-		"autoOutputPathStyle": 0,
+		"autoOutputPathStyle": 1,
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
@@ -2510,7 +2415,7 @@
 		],
 	"overrideExternalServerCSS": 0,
 	"previewPathAddition": "",
-	"skippedFoldersString": "log, _logs, logs, _cache, cache, \/storage\/framework\/sessions, node_modules",
+	"skippedFoldersString": "log, _logs, logs, _cache, cache, .idea, \/storage\/framework\/sessions, node_modules",
 	"sourceFolderName": "source",
 	"susyVersion": 3,
 	"uglifyDefinesString": "",
