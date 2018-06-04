@@ -46,7 +46,7 @@
     }
   }
 
-  @media screen and (max-width: 900px) {
+  @media screen and (max-width: 750px) {
     .navs {
       display: none;
     }
@@ -63,11 +63,26 @@
       .navs {
         width: 100%;
         display: block;
+        padding: 10px;
         position: absolute;
-        top: 76px;
+        top: 64px;
         left: 0;
-        padding-bottom: 20px;
         text-align: center;
+        background: rgba(0,0,0,0.4);
+
+        &:before {
+          width: 0;
+          height: 0;
+          content: '';
+          display: block;
+          position: absolute;
+          top: -8px;
+          right: 26px;
+          border-width: 0 5px 5px 5px;
+          border-left: 8px solid transparent;
+          border-right: 8px solid transparent;
+          border-bottom: 8px solid rgba(0,0,0,0.4);
+        }
       }
     }
   }

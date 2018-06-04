@@ -20,8 +20,8 @@
               <p>(206) 483-2177</p>
             </div>
             <div class="legal">
-              <a href="/tos">Terms of Service</a>
-              <a href="/privacy-policy">Privacy Policy</a>
+              <a href="./team">Our Team</a>
+              <a href="./careers">Careers</a>
             </div>
           </div>
         </div>
