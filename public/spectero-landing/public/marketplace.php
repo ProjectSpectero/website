@@ -1,7 +1,7 @@
 <?php
 $html_title = 'Spectero Cloud Panel &amp; Marketplace';
 $header_h1 = 'Spectero Cloud Panel &amp; Marketplace';
-$header_content = '<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus id malesuada ex, id tincidunt massa. Suspendisse eu ullamcorper arcu.</p>';
+$header_content = '<p>Our one of a kind VPN marketplace allows for peer-to-peer transactions with global access to VPN servers.</p>';
 
 include ('./includes/header.php');
 ?>
