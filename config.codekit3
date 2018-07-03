@@ -590,6 +590,13 @@
 		"oO": 0,
 		"oS": 1
 		},
+	"\/public\/spectero.wav": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/public\/spectero.wav",
+		"oF": 0
+		},
 	"\/public\/src\/Mandrill.php": {
 		"cB": 0,
 		"ft": 8192,
@@ -714,6 +721,13 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/public\/team.php",
+		"oF": 0
+		},
+	"\/public\/wiki.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/public\/wiki.php",
 		"oF": 0
 		},
 	"\/README.md": {

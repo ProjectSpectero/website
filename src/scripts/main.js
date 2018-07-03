@@ -6,15 +6,6 @@ $(function() {
 		e.preventDefault();
 	});
 
-	$('.os-tabs li').click(function (e) {
-		var os = $(this).data('os');
-		$('.os-tabs li').removeClass('active');
-		$('.os-tabs li[data-os="' + os + '"]').addClass('active');
-		$('.os-instruction').hide();
-		$('.os-instruction.' + os).show();
-		console.log(os)
-	});
-
 	$('.faq .questions li').click(function(e) {
 		var container = $('.faq .questions');
 		
