@@ -9,12 +9,13 @@ include ('./includes/header.php');
   <section class="body-white">
     <div class="wrapper body-wrapper wrapper-mailing-form">
       <div class="mailing-form">
-        <p>Interested in joining our global marketplace? Join our waiting list.</p>
-        <form action="https://spectero.us12.list-manage.com/subscribe/post?u=561df051651ece8ea77ec2a7f&amp;id=1a989802f2" method="post">
+        <p>Interested in joining our global marketplace? Sign ups are now open.</p>
+        <!-- <form action="https://spectero.us12.list-manage.com/subscribe/post?u=561df051651ece8ea77ec2a7f&amp;id=1a989802f2" method="post">
           <input type="email" name="EMAIL" class="input" placeholder="Enter your email">
           <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_561df051651ece8ea77ec2a7f_1a989802f2" tabindex="-1" value=""></div>
           <button type="submit" value="Subscribe" class="button">Subscribe</button>
-        </form>
+        </form> -->
+        <a href="https://app.spectero.com/register" class="button">Sign Up Now</a>
       </div>
     </div>
   </section>
@@ -49,7 +50,7 @@ include ('./includes/header.php');
           </header>
           <div class="info">
             <p>Our marketplace is the first of its kind in the VPN space. We offer robust search capabilities to easily find VPN servers in specific networks/countries along with multiple payment gateways for fast payment and setup. Tight integration with our enterprise customerbase means you can profit from daemon deployments at any scale.</p>
-            <!--<a href="#" class="learn-more">Learn More</a>-->
+            <a href="https://app.spectero.com/register" class="learn-more">Sign Up Now</a>
           </div>
         </article>
       </div>
@@ -65,7 +66,7 @@ include ('./includes/header.php');
           <div class="info">
             <p>Offering powerful management capabilities our cloud panel enables for easy remote configuration of your daemon instance. Adding/removing users, modifying proxy servers, downloading configurations and running commands in bulk on groups of servers can be done with just a few clicks.
 </p>
-            <!--<a href="#" class="learn-more">Learn More</a>-->
+            <a href="https://app.spectero.com/register" class="learn-more">Sign Up Now</a>
           </div>
         </article>
       </div>

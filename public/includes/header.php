@@ -23,7 +23,7 @@
             <div class="navs">
               <nav class="header-nav-main">
                 <ul>
-                  <!-- <li><a href="./downloads">Downloads</a></li> -->
+                  <li><a href="./downloads">Downloads</a></li>
                   <li><a href="./marketplace">Marketplace</a></li>
                   <li><a href="./enterprise">Enterprise</a></li>
                 </ul>
@@ -31,7 +31,7 @@
               <nav class="header-nav-account">
                 <ul>
                   <li><a href="https://app.spectero.com/login">Log In</a></li>
-                  <li><a href="./marketplace">Sign Up</a></li>
+                  <li><a href="https://app.spectero.com/register">Sign Up</a></li>
                 </ul>
               </nav>
             </div>
