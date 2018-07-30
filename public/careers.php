@@ -4,7 +4,7 @@ $header_h1 = 'Join Our Team';
 $header_content = '<p>Our team is working on building a revolutionary proxy network bundled with easy-to-use private VPN software.</p>
 <p>Interested? We\'d love to have you on our team.</p>';
 
-include ('./includes/header.php');
+include ('/includes/header.php');
 ?>
 <section id="job-positions" class="body-white">
   <div class="wrapper body-wrapper job-listings">
@@ -85,4 +85,4 @@ include ('./includes/header.php');
     </article>
   </div>
 </section>
-<?php include ('./includes/footer.php'); ?>
+<?php include ('/includes/footer.php'); ?>
