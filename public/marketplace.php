@@ -9,7 +9,7 @@ include ('./includes/header.php');
   <section class="body-white">
     <div class="wrapper body-wrapper wrapper-mailing-form">
       <div class="mailing-form">
-        <p>Interested in joining our global marketplace? Sign ups are now open.</p>
+        <p>Interested in joining our VPN marketplace?</p>
         <!-- <form action="https://spectero.us12.list-manage.com/subscribe/post?u=561df051651ece8ea77ec2a7f&amp;id=1a989802f2" method="post">
           <input type="email" name="EMAIL" class="input" placeholder="Enter your email">
           <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_561df051651ece8ea77ec2a7f_1a989802f2" tabindex="-1" value=""></div>
