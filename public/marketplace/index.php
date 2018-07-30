@@ -3,7 +3,7 @@ $html_title = 'Spectero Cloud Panel &amp; Marketplace';
 $header_h1 = 'Spectero Cloud Panel &amp; Marketplace';
 $header_content = '<p>Our one of a kind VPN marketplace allows for peer-to-peer transactions with global access to VPN servers.</p>';
 
-include ('./includes/header.php');
+include ('../includes/header.php');
 ?>
 <div id="marketplace">
   <section class="body-white">
@@ -41,12 +41,12 @@ include ('./includes/header.php');
       </div>
       <div class="homepage-section">
         <div class="section-image">
-        <img src="./assets/img/screenshot-market.png" alt="Spectero Marketplace" />
+        <img src="/assets/img/screenshot-market.png" alt="Spectero Marketplace" />
         </div>
         <article>
           <header>
             <div class="icon-boxed blue"></div>
-            <h3>Global Marketplace</h3>
+            <h3>Spectero Marketplace</h3>
           </header>
           <div class="info">
             <p>Our marketplace is the first of its kind in the VPN space. We offer robust search capabilities to easily find VPN servers in specific networks/countries along with multiple payment gateways for fast payment and setup. Tight integration with our enterprise customerbase means you can profit from daemon deployments at any scale.</p>
@@ -56,7 +56,7 @@ include ('./includes/header.php');
       </div>
       <div class="homepage-section">
         <div class="section-image">
-        <img src="./assets/img/screenshot-panel.png" alt="Spectero Cloud Panel" />
+        <img src="/assets/img/screenshot-panel.png" alt="Spectero Cloud Panel" />
         </div>
         <article>
           <header>
@@ -64,12 +64,26 @@ include ('./includes/header.php');
             <h3>Spectero Cloud Panel</h3>
           </header>
           <div class="info">
-            <p>Offering powerful management capabilities our cloud panel enables for easy remote configuration of your daemon instance. Adding/removing users, modifying proxy servers, downloading configurations and running commands in bulk on groups of servers can be done with just a few clicks.
-</p>
+            <p>Offering powerful management capabilities our cloud panel enables for easy remote configuration of your daemon instance. Adding/removing users, modifying proxy servers, downloading configurations and running commands in bulk on groups of servers can be done with just a few clicks.</p>
             <a href="https://app.spectero.com/register" class="learn-more">Sign Up Now</a>
           </div>
         </article>
       </div>
+      <div class="homepage-section">
+      <div class="section-image enterprise">
+        <img src="/assets/img/managed-diagram-mini.png" alt="Spectero Marketplace" />
+      </div>
+      <article>
+        <header>
+          <div class="icon-boxed dark"></div>
+          <h3>Spectero Marketplace for Enterprise</h3>
+        </header>
+        <div class="info">
+          <p>Private Proxies by Spectero Enterprise provide over 100 GB/s of network throughput to customers all over the globe. Automatic IP rotation and dedicated proxy servers provide a private, secure and lightning fast experience. Contact us today and see why businesses around the globe trust us to help extract essential business intelligence data.</p>
+          <a href="/marketplace/enterprise" class="learn-more">Learn More</a>
+        </div>
+      </article>
+    </div>
     </div>
   </section>
   <!-- <section id="our-ecosystem" class="body-alt">
@@ -99,4 +113,4 @@ include ('./includes/header.php');
     </div>
   </section> -->
 </div>
-<?php include ('./includes/footer.php'); ?>
+<?php include ('../includes/footer.php'); ?>

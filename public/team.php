@@ -8,7 +8,7 @@ include ('./includes/header.php');
 <section id="team" class="body-white">
   <div class="wrapper body-wrapper team-bios">
     <article>
-      <div class="bio-photo"><img src="./assets/img/team-robert.jpg" /></div>
+      <div class="bio-photo"><img src="/assets/img/team-robert.jpg" /></div>
       <div class="bio-description">
         <header>
           <h3>Robert</h3>
@@ -18,7 +18,7 @@ include ('./includes/header.php');
       </div>
     </article>
     <article>
-      <div class="bio-photo"><img src="./assets/img/team-paul.jpg" /></div>
+      <div class="bio-photo"><img src="/assets/img/team-paul.jpg" /></div>
       <div class="bio-description">
         <header>
           <h3>Paul</h3>
@@ -28,7 +28,7 @@ include ('./includes/header.php');
       </div>
     </article>
     <article>
-      <div class="bio-photo"><img src="./assets/img/team-anatolie.jpg" /></div>
+      <div class="bio-photo"><img src="/assets/img/team-anatolie.jpg" /></div>
       <div class="bio-description">
         <header>
           <h3>Anatolie</h3>
@@ -38,7 +38,7 @@ include ('./includes/header.php');
       </div>
     </article>
     <article>
-      <div class="bio-photo"><img src="./assets/img/team-sergio.jpg" /></div>
+      <div class="bio-photo"><img src="/assets/img/team-sergio.jpg" /></div>
       <div class="bio-description">
         <header>
           <h3>Sergio</h3>
@@ -48,7 +48,7 @@ include ('./includes/header.php');
       </div>
     </article>
     <article>
-      <div class="bio-photo"><img src="./assets/img/team-andrew.jpg" /></div>
+      <div class="bio-photo"><img src="/assets/img/team-andrew.jpg" /></div>
       <div class="bio-description">
         <header>
           <h3>Andrew</h3>
@@ -62,7 +62,7 @@ include ('./includes/header.php');
         <header>
           <h3>Interested in contributing to the project? We'd love to have you on our team.</h3>
         </header>
-        <a href="./careers" class="button">See Available Positions</a>
+        <a href="/careers" class="button">See Available Positions</a>
       </div>
     </article>
   </div>

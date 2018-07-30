@@ -20,14 +20,14 @@
               <p>(206) 483-2177</p>
             </div>
             <div class="legal">
-              <!-- <a href="./team">Our Team</a> -->
-              <a href="./careers">Careers</a>
+              <!-- <a href="/team">Our Team</a> -->
+              <a href="/careers">Careers</a>
             </div>
           </div>
         </div>
       </div>
     </footer>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-    <script src="./assets/js/main-min.js"></script>
+    <script src="/assets/js/main-min.js"></script>
   </body>
 </html>
