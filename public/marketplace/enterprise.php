@@ -1,7 +1,7 @@
 <?php
 $html_title = 'Spectero Marketplace for Enterprise';
 $header_h1 = 'Spectero Marketplace for Enterprise';
-$header_content = '<p>Private Proxies by Spectero Enterprise provide over 100 GB/s of network throughput to customers all over the globe. Automatic IP rotation and dedicated proxy servers provide a private, secure and lightning fast experience.</p>';
+$header_content = '<p>Private Proxies by Spectero provide over 100 GB/s of network throughput to customers all over the globe. Automatic IP rotation and dedicated proxy servers based on our open source server software provide a private, secure and lightning fast experience.</p>';
 
 include ('../includes/header.php');
 ?>
@@ -28,7 +28,7 @@ include ('../includes/header.php');
     <div class="wrapper body-wrapper centered">
       <div class="section-title">
         <h2>How It Works</h2>
-        <p class="section-description">Spectero Enterprise is powered by a state of the art global infrastructure.</p>
+        <p class="section-description">Spectero Marketplace for Enterprise is powered by a state of the art global infrastructure.</p>
       </div>
       <div class="managed-diagram"></div>
       <div class="managed-diagram-steps">
@@ -96,7 +96,7 @@ include ('../includes/header.php');
             <li data-answer-id="custom" class="selected">Can you prepare a custom proxy package for me?</li>
             <li data-answer-id="blocked">We implement our own techniques to minimize exposure in our daily web scraping activities, but we still get blocked. What can we do about it?</li>
             <li data-answer-id="type">What type of proxies do you have?</li>
-            <li data-answer-id="implement">Is it difficult to use Spectero Enterprise? Can it be implemented in my custom data mining tool?</li>
+            <li data-answer-id="implement">Is it difficult to use Spectero Marketplace for Enterprise? Can it be implemented in my custom data mining tool?</li>
           </ul>
         </div>
         <div class="answer">
@@ -106,14 +106,14 @@ include ('../includes/header.php');
           </article>
           <article data-answer-id="blocked">
             <h5>We implement our own techniques to minimize exposure in our daily web scraping activities, but we still get blocked. What can we do about it?</h5>
-            <p>Spectero Enterprise was built to tackle risks associated with data harvesting. IP blocking is just one of them, and even though it's the most common, it's also the easiest to solve. Our intelligent IP rotation algorithm minimizes the risk of IP-based blocking. Even if the IP is blacklisted by mistake, the site is still accessible through our other vastly scattered resources. The system was designed to deliver you the data, no matter what.</p>
+            <p>Spectero Marketplace for Enterprise was built to tackle risks associated with data harvesting. IP blocking is just one of them, and even though it's the most common, it's also the easiest to solve. Our intelligent IP rotation algorithm minimizes the risk of IP-based blocking. Even if the IP is blacklisted by mistake, the site is still accessible through our other vastly scattered resources. The system was designed to deliver you the data, no matter what.</p>
           </article>
           <article data-answer-id="type">
             <h5>What type of proxies do you have?</h5>
             <p>We have high performance HTTP/HTTPS & Socks 4/5 proxies.</p>
           </article>
           <article data-answer-id="implement">
-            <h5>Is it difficult to use Spectero Enterprise? Can it be implemented in my custom data mining tool?</h5>
+            <h5>Is it difficult to use Spectero Marketplace for Enterprise? Can it be implemented in my custom data mining tool?</h5>
             <p>Our core is intuitive and extremely easy to use. It's light and simple and can be implemented into any custom data harvesting script or tool.</p>
           </article>
         </div>

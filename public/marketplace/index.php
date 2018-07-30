@@ -46,7 +46,7 @@ include ('../includes/header.php');
         <article>
           <header>
             <div class="icon-boxed blue"></div>
-            <h3>Global Marketplace</h3>
+            <h3>Spectero Marketplace</h3>
           </header>
           <div class="info">
             <p>Our marketplace is the first of its kind in the VPN space. We offer robust search capabilities to easily find VPN servers in specific networks/countries along with multiple payment gateways for fast payment and setup. Tight integration with our enterprise customerbase means you can profit from daemon deployments at any scale.</p>
@@ -76,7 +76,7 @@ include ('../includes/header.php');
       <article>
         <header>
           <div class="icon-boxed dark"></div>
-          <h3>Spectero Enterprise</h3>
+          <h3>Spectero Marketplace for Enterprise</h3>
         </header>
         <div class="info">
           <p>Private Proxies by Spectero Enterprise provide over 100 GB/s of network throughput to customers all over the globe. Automatic IP rotation and dedicated proxy servers provide a private, secure and lightning fast experience. Contact us today and see why businesses around the globe trust us to help extract essential business intelligence data.</p>
