@@ -3,7 +3,7 @@ $html_title = 'Spectero Marketplace for Enterprise';
 $header_h1 = 'Spectero Marketplace for Enterprise';
 $header_content = '<p>Private Proxies by Spectero Enterprise provide over 100 GB/s of network throughput to customers all over the globe. Automatic IP rotation and dedicated proxy servers provide a private, secure and lightning fast experience.</p>';
 
-include ('/includes/header.php');
+include ('../includes/header.php');
 ?>
 <div id="managed">
   <section class="body-white">
@@ -168,4 +168,4 @@ include ('/includes/header.php');
     </div>
   </section>
 </div>
-<?php include ('/includes/footer.php'); ?>
+<?php include ('../includes/footer.php'); ?>

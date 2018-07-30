@@ -3,7 +3,7 @@ $html_title = 'Spectero - Team';
 $header_h1 = 'Our Team';
 $header_content = '<p>Our team is working on building a revolutionary proxy network bundled with easy-to-use private VPN software.</p>';
 
-include ('/includes/header.php');
+include ('./includes/header.php');
 ?>
 <section id="team" class="body-white">
   <div class="wrapper body-wrapper team-bios">
@@ -67,4 +67,4 @@ include ('/includes/header.php');
     </article>
   </div>
 </section>
-<?php include ('/includes/footer.php'); ?>
+<?php include ('./includes/footer.php'); ?>

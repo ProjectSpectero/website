@@ -3,7 +3,7 @@ $html_title = 'Spectero Cloud Panel &amp; Marketplace';
 $header_h1 = 'Spectero Cloud Panel &amp; Marketplace';
 $header_content = '<p>Our one of a kind VPN marketplace allows for peer-to-peer transactions with global access to VPN servers.</p>';
 
-include ('./includes/header.php');
+include ('../includes/header.php');
 ?>
 <div id="marketplace">
   <section class="body-white">
@@ -113,4 +113,4 @@ include ('./includes/header.php');
     </div>
   </section> -->
 </div>
-<?php include ('/includes/footer.php'); ?>
+<?php include ('../includes/footer.php'); ?>

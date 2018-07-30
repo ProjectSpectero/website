@@ -6,7 +6,7 @@ $header_content = '<p>Welcome to the future of peer to peer VPN sharing. Using o
 <a href="/marketplace" class="button">Learn More</a>';
 $header_screenshot = 'screenshot-market-cropped.png';
 
-include ('/includes/header.php');
+include ('./includes/header.php');
 ?>
 <section id="ecosystem" class="body-white">
   <div class="wrapper body-wrapper">
@@ -61,4 +61,4 @@ include ('/includes/header.php');
     </div>
   </div>
 </section>
-<?php include ('/includes/footer.php'); ?>
+<?php include ('./includes/footer.php'); ?>
