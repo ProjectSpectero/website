@@ -31,27 +31,12 @@ include ('./includes/header.php');
     </div>
     <div class="homepage-section">
       <div class="section-image">
-      <img src="/assets/img/screenshot-panel.png" alt="Spectero Cloud Panel" />
-      </div>
-      <article>
-        <header>
-          <div class="icon-boxed orange"></div>
-          <h3>Spectero Cloud Panel</h3>
-        </header>
-        <div class="info">
-          <p>Offering powerful management capabilities our cloud panel enables for easy remote configuration of your daemon instance. Adding/removing users, modifying proxy servers, downloading configurations and running commands in bulk on groups of servers can be done with just a few clicks.</p>
-          <a href="/marketplace" class="learn-more">Learn More</a>
-        </div>
-      </article>
-    </div>
-    <div class="homepage-section">
-      <div class="section-image">
       <img src="/assets/img/screenshot-market.png" alt="Spectero Marketplace" />
       </div>
       <article>
         <header>
           <div class="icon-boxed blue"></div>
-          <h3>Spectero Marketplace</h3>
+          <h3>Spectero Marketplace and Cloud Panel</h3>
         </header>
         <div class="info">
           <p>Our marketplace is the first of its kind in the VPN space. We offer robust search capabilities to easily find VPN servers in specific networks/countries along with multiple payment gateways for fast payment and setup. Tight integration with our enterprise customerbase means you can profit from daemon deployments at any scale.</p>
