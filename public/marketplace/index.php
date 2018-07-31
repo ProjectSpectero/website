@@ -64,7 +64,7 @@ include ('../includes/header.php');
             <h3>Spectero Cloud Panel</h3>
           </header>
           <div class="info">
-            <p>Offering powerful management capabilities our cloud panel enables for easy remote configuration of your daemon instance. Adding/removing users, modifying proxy servers, downloading configurations and running commands in bulk on groups of servers can be done with just a few clicks.</p>
+            <p>Offering powerful management capabilities our cloud panel enables for easy remote configuration of your daemon instance. Adding/removing users, modifying proxy servers, downloading configurations and running commands in bulk on groups of servers can be done with just a few clicks. The Spectero Cloud Panel is tightly integrated with our marketplace to allow for easy listing/management of your VPN server.</p>
             <a href="https://app.spectero.com/register" class="learn-more">Sign Up Now</a>
           </div>
         </article>
