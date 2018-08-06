@@ -23,7 +23,7 @@
             <div class="navs">
               <nav class="header-nav-main">
                 <ul>
-                  <li><a href="/pro">Spectero Pro</a></li>
+                  <li><a href="https://app.spectero.com/pro">Spectero Pro</a></li>
                   <li class="with-dropdown">
                     <span class="dropdown-link">Marketplace</span>
                     <span class="dropdown-toggle"></span>
