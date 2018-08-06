@@ -23,9 +23,18 @@
             <div class="navs">
               <nav class="header-nav-main">
                 <ul>
+                  <li><a href="/pro">Spectero Pro</a></li>
+                  <li class="with-dropdown">
+                    <a href="/marketplace">Marketplace</a>
+                    <span class="dropdown-toggle"></span>
+                    <ul class="dropdown">
+                      <li><a href="/marketplace">For Consumers</a></li>
+                      <li><a href="/marketplace/enterprise">For Enterprise</a></li>
+                      <li><a href="/marketplace/datacenters">For Datacenters</a></li>
+                      
+                    </ul>
+                  </li>
                   <li><a href="/downloads">Downloads</a></li>
-                  <li><a href="/marketplace">Marketplace</a></li>
-                  <li><a href="/marketplace/enterprise">Enterprise</a></li>
                 </ul>
               </nav>
               <nav class="header-nav-account">

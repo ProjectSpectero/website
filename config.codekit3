@@ -575,11 +575,18 @@
 		"oAP": "\/public\/jobs.php",
 		"oF": 0
 		},
-	"\/public\/marketplace.php": {
+	"\/public\/marketplace\/enterprise.php": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/public\/marketplace.php",
+		"oAP": "\/public\/marketplace\/enterprise.php",
+		"oF": 0
+		},
+	"\/public\/marketplace\/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/public\/marketplace\/index.php",
 		"oF": 0
 		},
 	"\/public\/releases.json": {

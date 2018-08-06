@@ -29,6 +29,79 @@
     margin-left: 20px;
   }
 
+  nav.header-nav-main {
+    ul {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    li {
+      cursor: pointer;
+
+      &:hover a {
+        color: rgba(255,255,255,1);
+      }
+    }
+    li.with-dropdown {
+      padding-bottom: 10px;
+      position: relative;
+      top: 5px;
+      
+      &:hover > .dropdown-toggle:before {
+        border-top-color: rgba(255,255,255,1);
+      }
+      > .dropdown-toggle {
+        margin-left: 2px;
+        cursor: pointer;
+
+        &:before {
+          display: inline-block;
+          content: '';
+          width: 0; 
+          height: 0; 
+          border-left: 5px solid transparent;
+          border-right: 5px solid transparent;
+          border-top: 5px solid rgba(255,255,255,0.8);
+          position: relative;
+          top: -2px;
+          transition: all 0.1s ease-out;
+        }
+      }
+      > ul.dropdown {
+        width: 100%;
+        min-width: 160px;
+        padding: 4px 0;
+        position: absolute;
+        top: 26px;
+        left: 0;
+        border-radius: 4px;
+        background: rgba(0,0,0,0.95);
+        display: none;
+        
+        li {
+          margin-left: 0;
+          display: block;
+
+          a {
+            padding: 12px;
+            display: block;
+          }
+        }
+        &:before {
+          content: '';
+          width: 0; 
+          height: 0; 
+          border-left: 6px solid transparent;
+          border-right: 6px solid transparent;
+          border-bottom: 6px solid rgba(0,0,0,0.95);
+          position: absolute;
+          top: -6px;
+          left: 8px;
+        }
+      }
+    }
+  }
+
   nav.header-nav-account {
     margin-left: 20px;
   }
