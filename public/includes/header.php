@@ -24,6 +24,7 @@
               <nav class="header-nav-main">
                 <ul>
                   <li><a href="https://app.spectero.com/pro">Spectero Pro</a></li>
+                  <li><a href="/downloads">Downloads</a></li>
                   <li class="with-dropdown">
                     <span class="dropdown-link">Marketplace</span>
                     <span class="dropdown-toggle"></span>
@@ -33,7 +34,6 @@
                       <li><a href="/marketplace/datacenters">For Datacenters</a></li>
                     </ul>
                   </li>
-                  <li><a href="/downloads">Downloads</a></li>
                 </ul>
               </nav>
               <nav class="header-nav-account">
