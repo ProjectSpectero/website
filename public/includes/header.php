@@ -25,13 +25,12 @@
                 <ul>
                   <li><a href="/pro">Spectero Pro</a></li>
                   <li class="with-dropdown">
-                  <span class="dropdown-link">Marketplace</span>
+                    <span class="dropdown-link">Marketplace</span>
                     <span class="dropdown-toggle"></span>
                     <ul class="dropdown">
-                      <li><a href="/marketplace">For Consumers</a></li>
+                      <li><a href="/marketplace">For VPNs</a></li>
                       <li><a href="/marketplace/enterprise">For Enterprise</a></li>
                       <li><a href="/marketplace/datacenters">For Datacenters</a></li>
-                      
                     </ul>
                   </li>
                   <li><a href="/downloads">Downloads</a></li>
