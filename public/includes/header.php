@@ -25,7 +25,7 @@
                 <ul>
                   <li><a href="/pro">Spectero Pro</a></li>
                   <li class="with-dropdown">
-                    <a href="/marketplace">Marketplace</a>
+                  <span class="dropdown-link">Marketplace</span>
                     <span class="dropdown-toggle"></span>
                     <ul class="dropdown">
                       <li><a href="/marketplace">For Consumers</a></li>

@@ -6,13 +6,19 @@ $(function() {
 		e.preventDefault();
 	});
 
-	$('.header-nav-main li.with-dropdown').mouseenter(function(){
+	var navDropdownShow = function () {
 		$('ul.dropdown', $(this).parent()).stop().show(0);
-	});
+	}
+	var navDropdownHide = function () {
+		$('ul.dropdown', $(this).parent()).stop().hide(0);
+	}
+	var navDropdownToggle = function () {
+		$('ul.dropdown', $(this).parent()).stop().toggle(0);
+	}
 
-	$('.header-nav-main li.with-dropdown, .header-nav-main .dropdown').mouseleave(function(){
-    $('ul.dropdown', $(this).parent()).stop().hide(0);
-	});
+	$('.header-nav-main li.with-dropdown').mouseenter(navDropdownShow);
+	$('.header-nav-main li.with-dropdown, .header-nav-main .dropdown').mouseleave(navDropdownHide);
+	$('.header-nav-main li.with-dropdown').click(navDropdownToggle);
 
 	$('.faq .questions li').click(function(e) {
 		var container = $('.faq .questions');
