@@ -6,6 +6,20 @@ $(function() {
 		e.preventDefault();
 	});
 
+	var navDropdownShow = function () {
+		$('ul.dropdown', $(this).parent()).stop().show(0);
+	}
+	var navDropdownHide = function () {
+		$('ul.dropdown', $(this).parent()).stop().hide(0);
+	}
+	var navDropdownToggle = function () {
+		$('ul.dropdown', $(this).parent()).stop().toggle(0);
+	}
+
+	$('.header-nav-main li.with-dropdown').mouseenter(navDropdownShow);
+	$('.header-nav-main li.with-dropdown, .header-nav-main .dropdown').mouseleave(navDropdownHide);
+	$('.header-nav-main li.with-dropdown').click(navDropdownToggle);
+
 	$('.faq .questions li').click(function(e) {
 		var container = $('.faq .questions');
 		
@@ -37,14 +51,6 @@ $(function() {
 		$('html, body').animate({
 			scrollTop: $('#contact').offset().top
 		}, 400);
-
-	});
-
-	$('#nav-main .mobile-toggle').click(function(e) {
-		e.preventDefault();
-
-		$('span', this).toggleClass('active');
-		$('#nav-main ul').toggleClass('mobile-show');
 
 	});
 
@@ -94,13 +100,5 @@ $(function() {
 			$('#contact-success').slideDown(400);
 		});
 
-	});
-
-	$('a.scrollto').click(function(e) {
-		e.preventDefault();
-		var div = $(this).attr('href');
-		$('html, body').animate({
-			scrollTop: $(div).offset().top
-		}, 400);
 	});
 });
