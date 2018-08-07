@@ -50,13 +50,13 @@ if ( $_SERVER['REQUEST_METHOD'] == 'POST' ) {
 
 	// Quantity checks
 	if ( empty($submit['quantity']) ) {
-		error('Please select a quantity.');
+		// error('Please select a quantity.');
+		$submit['quantity'] = 'n/a';
 	}
 
-	$valid_quantities = ['50', '100', '250', 'custom'];
+	$valid_quantities = ['50', '100', '250', 'custom', 'n/a'];
 	if ( !in_array($submit['quantity'], $valid_quantities) ) {
-		// error('Phone select a valid quantity.');
-		$submit['quantity'] = 'n/a';
+		error('Phone select a valid quantity.');
 	}
 
 	// Message checks
