@@ -295,6 +295,16 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"\/public\/assets\/icons\/icon-download.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/public\/assets\/icons\/icon-download.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
 	"\/public\/assets\/icons\/icon-email.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -315,11 +325,41 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"\/public\/assets\/icons\/icon-home-white.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/public\/assets\/icons\/icon-home-white.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
 	"\/public\/assets\/icons\/icon-twitter.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
 		"oAP": "\/public\/assets\/icons\/icon-twitter.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/public\/assets\/icons\/icon-user-plus.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/public\/assets\/icons\/icon-user-plus.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/public\/assets\/icons\/icon-zap.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/public\/assets\/icons\/icon-zap.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
@@ -575,6 +615,13 @@
 		"oAP": "\/public\/jobs.php",
 		"oF": 0
 		},
+	"\/public\/marketplace\/datacenters.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/public\/marketplace\/datacenters.php",
+		"oF": 0
+		},
 	"\/public\/marketplace\/enterprise.php": {
 		"cB": 0,
 		"ft": 8192,
@@ -587,6 +634,13 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/public\/marketplace\/index.php",
+		"oF": 0
+		},
+	"\/public\/pro.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/public\/pro.php",
 		"oF": 0
 		},
 	"\/public\/releases.json": {

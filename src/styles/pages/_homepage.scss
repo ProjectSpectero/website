@@ -209,3 +209,43 @@
     }
   }
 }
+.get-started {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 30px;
+
+  article {
+    flex: 1;
+    text-align: center;
+
+    h3 {
+      margin-bottom: 16px;
+      font-size: 20px;
+      font-weight: $font-bold;
+    }
+    p {
+      opacity: 0.8;
+      font-size: 95%;
+    }
+    a {
+      color: $color-primary;
+      text-decoration: underline;
+    }
+    [class^="icon-"] {
+      width: 54px;
+      height: 54px;
+      display: inline-block;
+      opacity: 0.75;
+      margin-bottom: 16px;
+    }
+    .icon-user-plus {
+      background: url(../icons/icon-user-plus.svg) no-repeat 100%/100%;
+    }
+    .icon-download {
+      background: url(../icons/icon-download.svg) no-repeat 100%/100%;
+    }
+    .icon-zap {
+      background: url(../icons/icon-zap.svg) no-repeat 100%/100%;
+    }
+  }
+}

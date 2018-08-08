@@ -23,6 +23,12 @@
             <div class="navs">
               <nav class="header-nav-main">
                 <ul>
+                  <li class="icon">
+                    <a href="/">
+                      <span class="icon-home"></span>
+                      <span class="text">Home</span>
+                    </a>
+                  </li>
                   <li><a href="https://app.spectero.com/pro">Spectero Pro</a></li>
                   <li><a href="/downloads">Downloads</a></li>
                   <li class="with-dropdown">
