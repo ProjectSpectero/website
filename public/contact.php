@@ -4,7 +4,7 @@
 $mandrill_key = 'fsX5DZMmdP4pcALmPB2L4A';
 
 $sender_email		= 'noreply@spectero.com';
-$reciever_email		= 'robert@spectero.com';
+$reciever_email		= 'anatolie@spectero.com';
 
 function error( $msg='' ) {
 	if ( empty($msg) ) { $msg = 'There was a problem submitting your request. Please try again later.'; }
