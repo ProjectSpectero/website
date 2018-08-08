@@ -8,13 +8,29 @@ $header_screenshot = 'screenshot-market-cropped.png';
 
 include ('./includes/header.php');
 ?>
-<section id="ecosystem" class="body-white">
+<section class="body-white">
   <div class="wrapper body-wrapper">
     <div class="section-title">
-      <h2>Our Ecosystem</h2>
-      <p class="section-description">Spectero offers an array of products and services to support your VPN/data intelligence requirements.</p>
+      <h2>Get started</h2>
     </div>
-    <div class="homepage-section">
+    <div class="get-started">
+      <article>
+        <div class="icon-user-plus"></div>
+        <h3>Sign up</h3>
+        <p>Get a <a href="https://app.spectero.com/register">free Spectero account</a>.</p>
+      </article>
+      <article>
+        <div class="icon-download"></div>
+        <h3>Get Spectero</h3>
+        <p><a href="https://spectero.com/downloads">Get the Spectero server software</a> on your device.</p>
+      </article>
+      <article>
+        <div class="icon-zap"></div>
+        <h3>Want more?</h3>
+        <p>Get premium features with <a href="https://app.spectero.com/pro">Spectero Pro</a>.</p>
+      </article>
+    </div>
+    <!-- <div class="homepage-section">
       <div class="section-image">
         <img src="/assets/img/screenshot-daemon.png" alt="Spectero Daemon" />
       </div>
@@ -43,7 +59,7 @@ include ('./includes/header.php');
           <a href="/marketplace" class="learn-more">Learn More</a>
         </div>
       </article>
-    </div>
+    </div> -->
   </div>
 </section>
 <?php include ('./includes/footer.php'); ?>

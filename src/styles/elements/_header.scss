@@ -34,7 +34,10 @@
     display: inline-block;
     margin-left: 20px;
   }
-
+  .navs {
+    display: flex;
+    align-items: center;
+  }
   nav.header-nav-main {
     ul {
       display: flex;
@@ -103,6 +106,32 @@
           position: absolute;
           top: -6px;
           left: 8px;
+        }
+      }
+    }
+    li.icon {
+      width: 16px;
+      height: 16px;
+      display: block;
+      position: relative;
+      top: -2px;
+      
+      .text {
+        display: none;
+      }
+      [class^="icon-"] {
+        width: 16px;
+        height: 16px;
+        display: inline-block;
+        opacity: 0.8;
+        transition: all 0.1s ease-out;
+      }
+      .icon-home {
+        background: url(../icons/icon-home-white.svg) no-repeat 100%/100%;
+      }
+      &:hover {
+        [class^="icon-"] {
+          opacity: 1;
         }
       }
     }
@@ -186,6 +215,18 @@
               font-size: 85%;
               line-height: 85%;
             }
+          }
+        }
+        &.icon {
+          width: 100% !important;
+          height: auto !important;
+          top: 0 !important;
+
+          .text {
+            display: block !important;
+          }
+          [class^="icon-"] {
+            display: none !important;
           }
         }
       }
