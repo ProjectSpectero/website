@@ -1,7 +1,7 @@
 <?php
-$html_title = 'Spectero Marketplace &amp; Cloud Panel';
-$header_h1 = 'Spectero Marketplace &amp; Cloud Panel';
-$header_content = '<p>Our one of a kind VPN marketplace allows for peer-to-peer transactions with global access to VPN servers.</p>';
+$html_title = 'Spectero VPN Marketplace';
+$header_h1 = 'Spectero VPN Marketplace';
+$header_content = '<p>Our one of a kind VPN marketplace allows for P2P transactions with global access to VPN servers.</p>';
 
 include ('../includes/header.php');
 ?>
@@ -28,7 +28,7 @@ include ('../includes/header.php');
       <div class="feature-columns columns-how-it-works">
         <div class="col">
           <h3>Simple Setup</h3>
-          <p>The setup process involves a single download, a few clicks and you’re ready to go. Our software was built to be plug and play.</p>
+          <p>The setup process involves a single download of our <a href="https://www.spectero.com/downloads">VPN server software</a>, a few clicks and you’re ready to go. Our software was built to be plug and play.</p>
         </div>
         <div class="col">
           <h3>List Your Connection</h3>
@@ -69,7 +69,7 @@ include ('../includes/header.php');
           </div>
         </article>
       </div>
-      <div class="homepage-section">
+      <!--<div class="homepage-section">
       <div class="section-image enterprise">
         <img src="/assets/img/managed-diagram-mini.png" alt="Spectero Marketplace" />
       </div>
@@ -84,7 +84,7 @@ include ('../includes/header.php');
         </div>
       </article>
     </div>
-    </div>
+    </div>-->
   </section>
   <!-- <section id="our-ecosystem" class="body-alt">
     <div class="wrapper body-wrapper">
