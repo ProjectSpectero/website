@@ -36,8 +36,8 @@
                     <span class="dropdown-toggle"></span>
                     <ul class="dropdown">
                       <li><a href="/marketplace">For VPNs</a></li>
-                      <li><a href="/marketplace/enterprise">For Enterprise</a></li>
-                      <li><a href="/marketplace/datacenters">For Datacenters</a></li>
+                      <!--<li><a href="/marketplace/enterprise">For Enterprise</a></li>
+                      <li><a href="/marketplace/datacenters">For Datacenters</a></li>-->
                     </ul>
                   </li>
                 </ul>
