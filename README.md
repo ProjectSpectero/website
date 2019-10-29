@@ -27,8 +27,7 @@ Assumes that the user has already linked their server to the spectero.com dashbo
       - Mode (dropdown with NORMAL / WHITELIST ONLY option)
       - (IF NORMAL) Blacklisted domains
       - (IF WHITELIST ONLY) Whitelisted domains / subdomains
-      - LAN Subnet (so we can ban requests to this)
-      - Listen IP / port
+      - Configuration Management (sub page)
     - ~~VPN Server~~
       - ~~Server Software (OpenVPN or Shadowsocks, likely just Ovpn to start with, but good to have options)~~
       - ~~Listen protocol (TCP / UDP / Both)~~
